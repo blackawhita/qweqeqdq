@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b14de7560e3af2f",
+            "id": "77a98c08efd3e24d",
             "type": "leaf",
             "state": {
               "type": "bases",
@@ -139,16 +139,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4b14de7560e3af2f",
+  "active": "77a98c08efd3e24d",
   "lastOpenFiles": [
-    "posts/_markdown-style-guide.md",
+    "posts/Pewdiepie is gehh.md",
+    "posts/_embedded-content.md",
+    "posts/_KaTeX-example.md",
+    "posts/markdown-style-guide.md",
+    "posts/_the-tr-808-story.md",
     "_bases/Home.base",
     "_GUIDE.md",
     "posts/draft-example.md",
-    "posts/_the-tr-808-story.md",
-    "posts/_KaTeX-example.md",
-    "posts/_embedded-content.md",
     "posts/_using-mdx.mdx",
-    "posts/_theme-guide.md"
+    "posts/theme-guide.md"
   ]
 }
