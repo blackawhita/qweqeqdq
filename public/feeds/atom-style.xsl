@@ -39,7 +39,7 @@
           opacity: 0.12;
           }
           .title {
-          font-size: 1.625rem;
+          font-size: 2.625rem;
           font-weight: 600;
           }
           .description {
