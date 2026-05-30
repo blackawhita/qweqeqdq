@@ -52,7 +52,7 @@
           @media (prefers-color-scheme: dark) {
           body {
           background-color: #1c1c1c;
-          color: #fff;
+          color: rgb(181, 76, 76);
           }
           }
         </style>
