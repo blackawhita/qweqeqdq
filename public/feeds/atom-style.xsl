@@ -15,7 +15,7 @@
           margin: 0 auto;
           margin-top: 6em;
           background-color: #fff;
-          font-size: 2rem;
+          font-size: 0.9375rem;
           line-height: 1.45;
           color: rgba(0, 0, 0, 0.85);
           max-width: 22.5rem;
@@ -39,7 +39,7 @@
           opacity: 0.12;
           }
           .title {
-          font-size: 1.0625rem;
+          font-size: 1.625rem;
           font-weight: 600;
           }
           .description {
