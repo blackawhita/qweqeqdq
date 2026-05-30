@@ -11,7 +11,7 @@
   "enableTerminalDebugLogging": false,
   "enableTerminalRibbonIcon": true,
   "enableOpenConfigFileCommand": true,
-  "configFilePath": "../config.ts",
+  "configFilePath": "../../astro.config.ts",
   "enableConfigRibbonIcon": true,
   "contentTypes": [
     {

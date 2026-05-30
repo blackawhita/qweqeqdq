@@ -1,6 +1,6 @@
 {
   "projectRoot": "../..",
-  "configFilePath": "../config.ts",
+  "configFilePath": "../../astro.config.ts",
   "contentTypes": [
     {
       "id": "content-type-1773431208519-nqu3222gc",
