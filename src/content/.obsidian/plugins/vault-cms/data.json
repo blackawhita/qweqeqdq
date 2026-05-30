@@ -55,7 +55,9 @@
     "file-name-history",
     "settings-search",
     "tag-wrangler",
-    "zenmode"
+    "zenmode",
+    "omnisearch",
+    "vault-nickname"
   ],
   "disabledPlugins": [],
   "theme": "",

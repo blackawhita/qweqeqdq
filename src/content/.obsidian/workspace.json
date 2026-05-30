@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "312123b9199e26c0",
+            "id": "17bc94c6a516128c",
             "type": "leaf",
             "state": {
               "type": "bases",
@@ -139,14 +139,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "312123b9199e26c0",
+  "active": "17bc94c6a516128c",
   "lastOpenFiles": [
+    "_GUIDE.md",
     "posts/draft-example.md",
-    "_bases/Home.base",
+    "posts/_the-tr-808-story.md",
     "posts/_markdown-style-guide.md",
     "posts/_KaTeX-example.md",
+    "posts/_embedded-content.md",
+    "_bases/Home.base",
     "posts/_using-mdx.mdx",
-    "posts/_the-tr-808-story.md",
     "posts/_theme-guide.md"
   ]
 }
