@@ -11,13 +11,15 @@
             "id": "036538ed43aa3cec",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "_bases/Home.base",
-                "viewName": "Posts"
+                "file": "about/about.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-home",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "about"
             }
           }
         ]
@@ -141,6 +143,7 @@
   },
   "active": "036538ed43aa3cec",
   "lastOpenFiles": [
+    "_bases/Home.base",
     "about/about.md",
     "images/HQNEZnt-calvin-and-hobbes-desktop-wallpaper.png",
     "images",
@@ -151,7 +154,6 @@
     "about/Untitled - May 30, 2026 20.47.46.svg",
     "about/banner.svg",
     "posts/_KaTeX-example.md",
-    "_bases/Home.base",
     "posts/Pewdiepie is gehh.md",
     "posts/_embedded-content.md",
     "posts/_markdown-style-guide.md",
