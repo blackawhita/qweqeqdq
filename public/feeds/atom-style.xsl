@@ -39,7 +39,7 @@
           opacity: 0.12;
           }
           .title {
-          font-size: 2.625rem;
+          font-size: 1.625rem;
           font-weight: 600;
           }
           .description {
@@ -51,8 +51,8 @@
           }
           @media (prefers-color-scheme: dark) {
           body {
-          background-color: #1c1c1c;
-          color: rgb(255, 255, 255);
+          background-color: #9f1b1b;
+          color: rgb(50, 56, 118);
           }
           }
         </style>
