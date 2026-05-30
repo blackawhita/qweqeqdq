@@ -11,7 +11,10 @@ You can leave this empty if you don’t want to show any content.
  
 Amid the noise of modern social media, this space tries to offer a gentle alternative, where content is neither driven by algorithms nor measured by the engagement it generates, but created to be felt rather than consumed.
 
-Perhaps it's only a small step, but it's my way of sharing a piece of who I am.
+Perhaps it's only a small step, but it's my way of giving a piece of who I am. 
+
+*** 
+
 
 
 
