@@ -11,7 +11,7 @@ You can leave this empty if you don’t want to show any content.
  
 In a world where attention is constantly enforced, sold, and redirected, this space tries to offer a gentle alternative where thoughts are not measured by likes and words are written to be felt rather than consumed.
 
-I hope you’ll stay long enough to let me share a small piece of myself with you. Every page here is going to be written with that hope.
+I hope you’ll stay long enough to let me share a small piece of myself with you. Every page here is going to be written with that hope. 
 
 
 
