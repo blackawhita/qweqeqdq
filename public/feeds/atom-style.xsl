@@ -15,7 +15,7 @@
           margin: 0 auto;
           margin-top: 6em;
           background-color: #fff;
-          font-size: 0.9375rem;
+          font-size: 0.2rem;
           line-height: 1.45;
           color: rgba(0, 0, 0, 0.85);
           max-width: 22.5rem;
@@ -52,7 +52,7 @@
           @media (prefers-color-scheme: dark) {
           body {
           background-color: #1c1c1c;
-          color: rgb(181, 76, 76);
+          color: rgb(255, 255, 255);
           }
           }
         </style>
