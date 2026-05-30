@@ -6,11 +6,12 @@ title: 'About'
 This content will be displayed at the top of the index page.
 You can leave this empty if you don’t want to show any content.
 -->
-![](WhatsApp%20Image%202026-05-30%20at%2021.16.22.jpeg)
-A static blog theme based on [Youtube](https://www.youtube.com/@BlackaWhita), _designed for clarity and focus_.
 
-With a deliberately minimal design, this layout ensures your content takes center stage. It's built for flexibility, offering customization options that honor its clean and elegant aesthetic.asda
-qwdqd
-Effortlessly share your thoughts in a calm & dustless space.
-wrfwfgewfwefef
-Check posts for details and view source on [Spotify](https://open.spotify.com/user/j0l5qjmpdandrzw63ln9vm2sy?si=e16d7a337a6d46d3).
+ _Hellooo.. People of the Internet,_ this is a static based site, designed to share my cultivated thoughts and emotions in a calm, uncluttered space. With a deliberately minimal design, I tried to ensure that my words to take center stage.
+ 
+In a world where attention is constantly enforced, sold, and redirected, this space tries to offer a gentle alternative where thoughts are not measured by likes and words are written to be felt rather than consumed.
+
+I hope you’ll stay long enough to let me share a small piece of myself with you. Every page here is going to be written with that hope.
+
+
+
