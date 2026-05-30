@@ -7,8 +7,7 @@ This content will be displayed at the top of the index page.
 You can leave this empty if you don’t want to show any content.
 -->⠀⠀⠀
 
-
-![](WhatsApp%20Image%202026-05-30%20at%2021.16.22.jpeg)
+![505](WhatsApp%20Image%202026-05-30%20at%2021.16.22.jpeg)
 
 A static blog theme based on [Youtube](https://www.youtube.com/@BlackaWhita), _designed for clarity and focus_.
 
