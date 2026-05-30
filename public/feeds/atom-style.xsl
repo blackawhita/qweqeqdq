@@ -51,8 +51,8 @@
           }
           @media (prefers-color-scheme: dark) {
           body {
-          background-color: #9f1b1b;
-          color: rgb(50, 56, 118);
+          background-color: #1c1c1c;
+          color: rgb(255, 255, 255);
           }
           }
         </style>

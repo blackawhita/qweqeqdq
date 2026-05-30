@@ -13,10 +13,10 @@
           Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
           margin: 0 auto;
           margin-top: 6em;
-          background-color: #fff;
-          font-size: 0.9375rem;
+          background-color: #36479d;
+          font-size: 3.375rem;
           line-height: 1.45;
-          color: rgba(0, 0, 0, 0.85);
+          color: rgba(133, 29, 29, 0.85);
           max-width: 22.5rem;
           }
           .header {
