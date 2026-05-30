@@ -7,9 +7,10 @@ This content will be displayed at the top of the index page.
 You can leave this empty if you don’t want to show any content.
 -->⠀⠀⠀
 
-![310](Untitled%20-%20May%2030,%202026%2020.47.46.svg)
 
-A static blog theme based on [Youtube](https://www.youtube.com/@BlackaWhita), _designed for clarity and focus_.
+![310](Untitled%20-%20May%2030,%202026%2020.47.46.svg)
+![](HQNEZnt-calvin-and-hobbes-desktop-wallpaper.png)
+![](WhatsApp%20Image%202026-05-30%20at%2020.57.08%20(1).jpeg)A static blog theme based on [Youtube](https://www.youtube.com/@BlackaWhita), _designed for clarity and focus_.
 
 With a deliberately minimal design, this layout ensures your content takes center stage. It's built for flexibility, offering customization options that honor its clean and elegant aesthetic.asda
 qwdqd
