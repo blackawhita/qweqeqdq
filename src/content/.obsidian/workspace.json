@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d83890b3b5d7af9",
+            "id": "8dfcfd8461117142",
             "type": "leaf",
             "state": {
               "type": "bases",
@@ -139,15 +139,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7d83890b3b5d7af9",
+  "active": "8dfcfd8461117142",
   "lastOpenFiles": [
+    "posts/markdown-style-guide.md",
+    "posts/the-tr-808-story.md",
+    "posts/theme-guide.md",
+    "posts/using-mdx.mdx",
+    "_bases/Home.base",
     "posts/My Youtube consumption.md",
     "posts/draft-example.md",
     "posts/Pewdiepie is gehh.md",
-    "posts/_using-mdx.mdx",
-    "posts/_theme-guide.md",
-    "posts/_the-tr-808-story.md",
-    "_bases/Home.base",
     "posts/_assets/a.png",
     "posts/_assets/copy-code.webp",
     "posts/_assets/date-on-left.webp",
@@ -157,11 +158,10 @@
     "posts/_assets/theme-toggle.webp",
     "posts/_assets/toc.webp",
     "posts/_assets/tr-808.webp",
-    "posts/_embedded-content.md",
+    "posts/embedded-content.md",
     "about/about.md",
     "images/WhatsApp Image 2026-05-30 at 21.16.22.jpeg",
-    "posts/_KaTeX-example.md",
-    "posts/_markdown-style-guide.md",
+    "posts/KaTeX-example.md",
     "images",
     "_GUIDE.md"
   ]
