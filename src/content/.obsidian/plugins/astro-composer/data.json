@@ -54,30 +54,5 @@
   "publishDateField": "pubDate",
   "renameOnTitleClick": false,
   "updateModifiedDate": false,
-  "modifiedDateField": "",
-  "postsFolder": "posts",
-  "creationMode": "file",
-  "indexFileName": "index",
-  "customContentTypes": [
-    {
-      "id": "content-type-1773431208519-4qz4popde",
-      "name": "Posts",
-      "folder": "posts",
-      "template": "---\ntitle: \"{{title}}\"\npubDate: {{date}}\n---\n",
-      "enabled": true,
-      "linkBasePath": "/",
-      "creationMode": "file",
-      "indexFileName": "index"
-    },
-    {
-      "id": "content-type-1773431208519-nqu3222gc",
-      "name": "About",
-      "folder": "about",
-      "template": "---\ntitle: \"{{title}}\"\n---\n",
-      "enabled": true,
-      "linkBasePath": "/",
-      "creationMode": "file",
-      "indexFileName": "index"
-    }
-  ]
+  "modifiedDateField": ""
 }

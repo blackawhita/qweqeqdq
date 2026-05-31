@@ -46,6 +46,8 @@ views:
     filters:
       and:
         - file.folder.startsWith("posts")
+    order:
+      - file.ctime
     sort:
       - property: pubDate
         direction: DESC
