@@ -19,7 +19,7 @@ The development team faced several challenges:
 
 > "We wanted to create something that would make drummers obsolete, but instead we created something that made everyone want to be a drummer." — Ikutaro Kakehashi
 
-####### The "Failed" Launch
+###### The "Failed" Launch
 
 When the TR-808 was released in 1980, it was met with **disappointing sales**. The machine cost \$1,195 (approximately \$4,000 in today's dollars) and was criticized for its "unrealistic" drum sounds. Professional studios preferred the more expensive Linn LM-1, which used actual drum samples.
 
