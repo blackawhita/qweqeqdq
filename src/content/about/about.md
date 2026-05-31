@@ -10,9 +10,7 @@ _Hellooo.. People of the Internet,_ this is a static site to share my cultivated
  
 Amid the noise of modern social media, this space tries to offer a gentle alternative, where content is neither driven by algorithms nor measured by the engagement it generates, but rather created to be felt.
 
-Perhaps it's only a small step, but it's my genuine wish to give a piece of who I am.  Here are my _**recent writings**_ ᝰ.ᐟ
-
-
+Perhaps it's a small step, but it's a genuine wish to give a piece of who I am.  Here are my _**recent writings**_ ᝰ.ᐟ
 
 
 
