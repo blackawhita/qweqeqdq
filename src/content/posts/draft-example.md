@@ -2,5 +2,4 @@
 title: Draft Example
 pubDate: 2026-05-29
 ---
-qweqweqwedasdddasdq
-Start the filename with  to mark it as a draft and hide it from the list.
+this is a test of how it looks on the internet..

@@ -11,13 +11,15 @@
             "id": "c75be94902b30d92",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "_bases/Home.base",
-                "viewName": "Posts"
+                "file": "posts/draft-example.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-home",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "draft-example"
             }
           }
         ]
@@ -141,6 +143,10 @@
   },
   "active": "c75be94902b30d92",
   "lastOpenFiles": [
+    "posts/_using-mdx.mdx",
+    "posts/_theme-guide.md",
+    "posts/_the-tr-808-story.md",
+    "_bases/Home.base",
     "posts/My Youtube consumption.md",
     "posts/_assets/a.png",
     "posts/_assets/copy-code.webp",
@@ -157,10 +163,6 @@
     "posts/Pewdiepie is gehh.md",
     "posts/_KaTeX-example.md",
     "posts/_markdown-style-guide.md",
-    "posts/_the-tr-808-story.md",
-    "posts/_theme-guide.md",
-    "posts/_using-mdx.mdx",
-    "_bases/Home.base",
     "images",
     "posts/draft-example.md",
     "_GUIDE.md"
