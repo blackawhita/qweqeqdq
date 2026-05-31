@@ -11,7 +11,7 @@ You can leave this empty if you don’t want to show any content.
  
 Amid the noise of modern social media, this space tries to offer a gentle alternative, where content is neither driven by algorithms nor measured by the engagement it generates, but rather created to be felt.
 
-Perhaps it's only a small step, but it's a way of giving a piece of who I am.  Here are my _**Recent Writings**_ -
+Perhaps it's only a small step, but it's a way of giving a piece of who I am.  Here are my _**recent writings**_  -
 
 
 
