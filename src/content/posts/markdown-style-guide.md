@@ -44,6 +44,7 @@ To hide the caption, start it with an underscore `_` or leave the alt text empty
 
 ![HIKARI](./_assets/hikari.webp)
 
+![](_assets/hikari.webp)
 ## Tables
 
 | Style    | Weight   | Other  |

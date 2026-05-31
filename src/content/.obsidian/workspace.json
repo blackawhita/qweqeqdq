@@ -11,13 +11,15 @@
             "id": "8dfcfd8461117142",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "_bases/Home.base",
-                "viewName": "Posts"
+                "file": "posts/markdown-style-guide.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-home",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "markdown-style-guide"
             }
           }
         ]
@@ -141,19 +143,19 @@
   },
   "active": "8dfcfd8461117142",
   "lastOpenFiles": [
+    "posts/_assets/hikari.webp",
+    "posts/_assets/dotted-divider.webp",
+    "posts/_assets/date-on-left.webp",
     "posts/markdown-style-guide.md",
+    "_bases/Home.base",
     "posts/the-tr-808-story.md",
     "posts/theme-guide.md",
     "posts/using-mdx.mdx",
-    "_bases/Home.base",
     "posts/My Youtube consumption.md",
     "posts/draft-example.md",
     "posts/Pewdiepie is gehh.md",
     "posts/_assets/a.png",
     "posts/_assets/copy-code.webp",
-    "posts/_assets/date-on-left.webp",
-    "posts/_assets/dotted-divider.webp",
-    "posts/_assets/hikari.webp",
     "posts/_assets/reading-time.webp",
     "posts/_assets/theme-toggle.webp",
     "posts/_assets/toc.webp",
