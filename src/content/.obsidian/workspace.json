@@ -11,13 +11,15 @@
             "id": "c89ea936e8aa8f12",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "_bases/Home.base",
-                "viewName": "Posts"
+                "file": "posts/markdown-style-guide.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-home",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "markdown-style-guide"
             }
           }
         ]
@@ -141,16 +143,16 @@
   },
   "active": "c89ea936e8aa8f12",
   "lastOpenFiles": [
-    "posts/the-tr-808-story.md",
-    "posts/markdown-style-guide.md",
+    "posts/theme-guide.md",
     "posts/My Youtube consumption.md",
+    "posts/the-tr-808-story.md",
     "posts/KaTeX-example.md",
-    "posts/embedded-content.md",
     "posts/_assets/hikari.webp",
+    "_bases/Home.base",
+    "posts/markdown-style-guide.md",
+    "posts/embedded-content.md",
     "posts/_assets/dotted-divider.webp",
     "posts/_assets/date-on-left.webp",
-    "_bases/Home.base",
-    "posts/theme-guide.md",
     "posts/using-mdx.mdx",
     "posts/draft-example.md",
     "posts/Pewdiepie is gehh.md",

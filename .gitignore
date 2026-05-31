@@ -30,6 +30,6 @@ pnpm-debug.log*
 *.tsbuildinfo
 
 # Vault CMS / Obsidian
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
 .ref/
