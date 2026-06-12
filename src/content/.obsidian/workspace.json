@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a6e47f61f419c58e",
+            "id": "a1ab6bbc636a787d",
             "type": "leaf",
             "state": {
               "type": "bases",
@@ -139,12 +139,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a6e47f61f419c58e",
+  "active": "a1ab6bbc636a787d",
   "lastOpenFiles": [
-    "posts/_the-tr-808-story.md",
-    "_bases/Home.base",
+    "posts/My Youtube consumption.md",
     "posts/_My Philosophy behind creating this Digital Gardening.md",
-    "posts/_My Youtube consumption.md",
+    "_bases/Home.base",
+    "posts/_the-tr-808-story.md",
     "about/about.md",
     "_GUIDE.md",
     "posts/_embedded-content.md",
