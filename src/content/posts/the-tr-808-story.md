@@ -1,8 +1,8 @@
 ---
 title: The TR-808 Story
-pubDate: 2026-05-31
+pubDate: 2026-06-12
 ---
-qwewqewqewqewqewqewq
+ qwewqewqewqewqewqewq
 ![_tr-808](./_assets/tr-808.webp)
 
 _The Roland TR-808 Rhythm Composer, often simply called the "808," is one of the most influential electronic instruments ever created. Despite its initial commercial failure, this drum machine went on to shape entire genres of music and become a cultural icon. This is the story of how a machine designed to replace drummers ended up revolutionizing music production._

@@ -8,16 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1bc868e6cabfebb8",
+            "id": "4f25566c1b2d8d25",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "_bases/Home.base",
-                "viewName": "Posts"
+                "file": "posts/the-tr-808-story.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-home",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "the-tr-808-story"
             }
           }
         ]
@@ -139,16 +141,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1bc868e6cabfebb8",
+  "active": "4f25566c1b2d8d25",
   "lastOpenFiles": [
-    "posts/_My Youtube consumption.md",
     "_bases/Home.base",
-    "posts/_KaTeX-example.md",
+    "posts/My Philosophy behind creating this Digital Gardening.md",
+    "posts/_My Youtube consumption.md",
+    "about/about.md",
+    "_GUIDE.md",
     "posts/_embedded-content.md",
-    "posts/_using-mdx.mdx",
+    "posts/_KaTeX-example.md",
     "posts/_markdown-style-guide.md",
+    "posts/the-tr-808-story.md",
     "posts/_theme-guide.md",
-    "posts/_the-tr-808-story.md",
+    "posts/_using-mdx.mdx",
     "posts/_assets/hikari.webp",
     "posts/_assets/dotted-divider.webp",
     "posts/_assets/date-on-left.webp",
@@ -160,9 +165,7 @@
     "posts/_assets/theme-toggle.webp",
     "posts/_assets/toc.webp",
     "posts/_assets/tr-808.webp",
-    "about/about.md",
     "images/WhatsApp Image 2026-05-30 at 21.16.22.jpeg",
-    "images",
-    "_GUIDE.md"
+    "images"
   ]
 }
