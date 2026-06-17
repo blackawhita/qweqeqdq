@@ -1,7 +1,6 @@
 ---
 title: Setting up my Digital Garden
-pubDate:
-  - 2026-06-12
+pubDate: 2026-06-18
 ---
 I am quite new to this idea of *Digital Gardening*, as I was searching for a medium that can hold my thoughts as well as to give me that creative freedom which feels exciting to pursue. I do not have a hate relation with the mainstream social platforms like Instagram and Youtube, in fact I believe they are extremely powerful in terms of resource and reach but putting up my thoughts over there taught me something new about me that I do not enjoy unnecessary loudness, nor do I like to fit in a way to be more relatable. I started valuing my core personality which yearns for building in silence, in private, booming feels natural to me and hence this garden came into existence.
 
