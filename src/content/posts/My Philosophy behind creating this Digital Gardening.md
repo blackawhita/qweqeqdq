@@ -3,7 +3,6 @@ title: Setting up my Digital Garden
 pubDate:
   - 2026-06-12
 ---
-
 I am quite new to this idea of *Digital Gardening*, as I was searching for a medium that can hold my thoughts as well as to give me that creative freedom which feels exciting to pursue. I do not have a hate relation with the mainstream social platforms like Instagram and Youtube, in fact I believe they are extremely powerful in terms of resources and reach but putting up my thoughts over there taught me something new about me that I do not enjoy unnecessary loudness, nor do I like to fit in a way to be more relatable. I started valuing my core personality which yearns for building in silence, in private, booming feels natural to me and hence this garden came into existence.
 
 I have used many blog based mediums in the past, from Tumblr to Reddit, I am fortunate to try almost all of them, but the fact of being under the control of some company who wants to push certain content just because of its profits always bothered me to have something of my own. I found being genuine is not what drives the algorithm but rather the amount of reach it can pull. So to tackle all this, I desired to have something which is away from all these, as I said - in silence, unbothered by this fast moving world.
