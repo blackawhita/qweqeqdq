@@ -46,7 +46,7 @@ Through this, I am making an effort to keep my thoughts open in public, I tend t
 
 [^6]: I am currently watching **Dr. Stone** (a science-based anime), where this idea of “desire being noble” came up to me. It is said that the reason humanity progressed so far is because someone, at some point, desired a better world. That desire pushed humans to discover, invent, and continuously improve the conditions of their lives. The more I think about it, the more convincing the idea feels. Nearly every advancement that we take for granted today began as someone’s desire to solve a problem, satisfy a curiosity, or pursue a possibility that did not yet exist.
 
-[^7]: My standards are notoriously high, which deserves a beating so it'll be flexible and less taxing on my mental process. I am actively working on it, but looking at this blog post I do not think that It'll reflect the same :)
+[^7]: My standards are notoriously high, which deserves a beating so it'll be less taxing on me. I have been actively working on it since last year and I can feel the easiness while writing this even though I tend to keep this one more towards formal side 
 
 
 
