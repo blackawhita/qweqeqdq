@@ -34,7 +34,7 @@ I am learning to do things imperfectly, that does not mean that I put in sub lev
 Through this, I am making an effort to keep my thoughts open in public, I tend to share my success, failures and everything in between with the intent of someone getting inspired by looking at it, learns from a mistake I made, or builds off of my work, then I would consider this garden a success.
 [^1]: It was excruciatingly painful to go through these, at once I thought of automating it with Claude but again that didn't fetch into something I wanted so I had to go through this tediously.
 
-[^2]: It's easier to get lazy and neglect the work seeing a dirty room but a cleaned one needs constant efforts to maintain, that's why I want my website to look aesthetically pleasing at least so my body tends to move naturally to maintain the status quo. This theme, unlike others, felt just like what my taste is - minimalistic and cute.  
+[^2]: It's easier to get lazy and neglect the work seeing a dirty room but a cleaned one needs constant efforts to maintain, that's why I want my website to look aesthetically pleasing at least so my body tends to move naturally to keep it clean. This theme, unlike others, felt just like what my taste is.
 
 [^3]: I loved Veritasium and Vsauce as they were my favorite back then, but since they have stepped down a bit from the ladder to focus on their personal life, I still go back to watch their old videos. Kurzgesagt, The Slow Mo Guys, and many others were the jewels of my feed.
 
