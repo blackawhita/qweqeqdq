@@ -31,9 +31,7 @@ I’ve always liked the feeling of possibility. The idea that I could learn one 
 I am learning to do things imperfectly, that does not mean that I put in sub level effort. Looking back at writing from a year ago, makes me cringe a little but like this garden, It'll evolve with time so I need not to feel pressurized by my own creative standards[^7]. There is no final state here, just like my thoughts, which are always in a state of flux, this place shall change with time as well. 
 
 Through this, I am making an effort to keep my thoughts open in public, I tend to share my success, failures and everything in between with the intent of someone getting inspired by looking at it, learns from a mistake I made, or builds off of my work, then I would consider this garden a success.
-
 ***
-
 [^1]: It was excruciatingly painful to go through these, at once I thought of automating it with Claude but again that didn't fetch into something I wanted so I had to go through this tediously.
 
 [^2]: It's easier to get lazy and neglect the work seeing a dirty room but a cleaned one needs constant efforts to maintain, that's why I want my website to look aesthetically pleasing at least so my body tends to move naturally to maintain the status quo. This theme, unlike others, felt just like what my taste is - minimalistic and cute.  
@@ -46,7 +44,7 @@ Through this, I am making an effort to keep my thoughts open in public, I tend t
 
 [^6]: I am currently watching **Dr. Stone** (a science-based anime), where this idea of “desire being noble” came up to me. It is said that the reason humanity progressed so far is because someone, at some point, desired a better world. That desire pushed humans to discover, invent, and continuously improve the conditions of their lives. The more I think about it, the more convincing the idea feels. Nearly every advancement that we take for granted today began as someone’s desire to solve a problem, satisfy a curiosity, or pursue a possibility that did not yet exist.
 
-[^7]: My standards are notoriously high, which deserves a beating so it'll be less taxing on me. I have been actively working on it since last year and I can feel the easiness while writing this even though I tend to keep this one more towards formal side 
+[^7]: My standards are notoriously high, which deserves a beating so it'll be less taxing on me. I have been actively working on it since last year and I can feel the easiness while writing this even though I tend to keep this one more towards formal side. 
 
 
 
