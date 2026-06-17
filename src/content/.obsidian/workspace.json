@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84649e005c5b45dd",
+            "id": "1d007d8029ed684e",
             "type": "leaf",
             "state": {
               "type": "bases",
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "spotlight",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,30 +140,30 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "84649e005c5b45dd",
+  "active": "1d007d8029ed684e",
   "lastOpenFiles": [
-    "posts/_My Youtube consumption.md",
+    "posts/My Philosophy behind creating this Digital Gardening.md",
     "_bases/Home.base",
-    "posts/_My Philosophy behind creating this Digital Gardening.md",
+    "posts/_My Youtube consumption.md",
     "posts/_the-tr-808-story.md",
+    "posts/_assets/copy-code.webp",
+    "posts/_assets/tr-808.webp",
+    "posts/_assets/toc.webp",
+    "posts/_assets/theme-toggle.webp",
+    "posts/_assets/reading-time.webp",
+    "posts/_assets/dotted-divider.webp",
+    "posts/_assets/date-on-left.webp",
+    "posts/_embedded-content.md",
+    "posts/_markdown-style-guide.md",
     "about/about.md",
     "_GUIDE.md",
-    "posts/_embedded-content.md",
     "posts/_KaTeX-example.md",
-    "posts/_markdown-style-guide.md",
     "posts/_theme-guide.md",
     "posts/_using-mdx.mdx",
     "posts/_assets/hikari.webp",
-    "posts/_assets/dotted-divider.webp",
-    "posts/_assets/date-on-left.webp",
     "posts/draft-example.md",
     "posts/Pewdiepie is gehh.md",
     "posts/_assets/a.png",
-    "posts/_assets/copy-code.webp",
-    "posts/_assets/reading-time.webp",
-    "posts/_assets/theme-toggle.webp",
-    "posts/_assets/toc.webp",
-    "posts/_assets/tr-808.webp",
     "images/WhatsApp Image 2026-05-30 at 21.16.22.jpeg",
     "images"
   ]

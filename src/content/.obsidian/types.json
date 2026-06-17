@@ -4,6 +4,12 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "date": "date",
-    "pubDate": "multitext"
+    "pubDate": "multitext",
+    "lt-language": "text",
+    "lt-picky": "checkbox",
+    "lt-autoCheck": "checkbox",
+    "lt-dictionary": "multitext",
+    "lt-disabledRules": "multitext",
+    "lt-disabledCategories": "multitext"
   }
 }
