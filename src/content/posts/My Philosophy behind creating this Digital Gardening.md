@@ -19,7 +19,8 @@ I stopped reading after I joined Philosophy and even during Philosophy I read no
 What made me the happiest was going back to my collection of science magazines which I used to read during COVID, I remember every night was a star gazing event with a friend on call after dinner. A few of Youtubers[^3]that I loved in the past who made juicy content on Science, started getting into my feed again. It was like living in the past with curiosity of a child but the brain of an adult. I rarely felt overwhelmed by these topics but I knew that If I did not let them flow intermittently, I might end up losing the 
 threads.
 ![Moon with Venus captured during COVID days|637](../images/3F32600B-083B-4B2C-A499-7B20747974C1_1_201_a.jpeg)
-<p align="center"><sub>Moon with Venus captured during COVID</sub></p>
+<p align="center"><sub>Moon with Venusduring COVID</sub></p>
+
 # Watering the plants
 
 My new tab page is a garden of developing thoughts. Ideas that are gathered from books, articles, videos are planted and nurtured here. I synced Obsidian with all my devices so to have an option to write down quickly before it fleets away with time. I also keep pen and paper on the table available to capture it. Thoughts are transient in nature, hence most of them get planted, watered and eroded by the time I plan to write, so having the tools available is important for this digital garden to exist. Not to mention that some thoughts are recurring,[^4]which means that I haven't processed them properly thus they are important to handle, as I start writing about it I get to know if it's worth watering for the longer run or better left to die, but the fact that I like giving them a chance to nurture is itself satisfying. 
