@@ -37,7 +37,7 @@ I’ve always liked the feeling of possibility. The idea that I could learn one 
 
 I am learning to do things imperfectly, that does not mean that I put in sub-level effort. Looking back at writing from a year ago, makes me cringe a little but like this garden, It'll evolve with time so I need not to feel pressurized by my own creative standards.[^7] There is no final state here, just like my thoughts which are always in a state of flux, this place shall change with time as well. 
 
-Through this, I am making an effort to keep my thoughts open in public, I tend to share my success, failures and everything in between with the intent of someone getting inspired by looking at it, learns from mistakes I made, then my reason for putting this online feels worthwhile.
+Through this, I am making an effort to keep my thoughts open in public, I tend to share my success, failures and everything in between with the intent of someone getting inspired by looking at it, learns from mistakes I made, then my reason for putting this online feels even sweeter.
 [^1]: It was excruciatingly painful to go through these, at once I thought of automating it with Claude but again that didn't fetch into something I wanted so I had to go through this tediously.
 
 [^2]: It's easier to get lazy and neglect the work seeing a dirty room but a cleaned one needs constant efforts to maintain, that's why I want my website to look aesthetically pleasing at least so my body tends to move naturally to keep it clean. This theme, unlike others, felt just like what my taste is.
