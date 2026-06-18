@@ -12,7 +12,7 @@ I have used blog based mediums in the past, from Tumblr to Reddit, but the fact 
 
 I have been a writing baby since long and every major twist and turn in my life has been jotted down somewhere, so to start a blog website required to learn few additional skills on top of that. I firstly hit my head to learn HTML and CSS, these two are core technologies used to build a web page. As I remember being taught in class X that I chose not to take it seriously back then, which resulted to do it again from the beginning. It took me nearly a week to understand all of that, and then I started applying few terminal commands on my mac to run it locally.[^1]I picked [**Astro**](https://astro.build) for the framework, in which I liked the theme named [**Chiri**](https://astro.build/themes/details/chiri/)[^2]as I felt drawn to it by its simplicity and cuteness. After then, all I needed was to sync it with my [**Obsidian Vault**](https://obsidian.md/) which generates .md files aka written thoughts. Once everything was set tightly, purchasing a domain to publish was the final step. I threw up few of my writings there and liked the way how they looked on my website. I also wanted my thoughts to be frictionless, so I set up [**GitHub**](https://github.com/) account and linked my repository with [**Vercel**](https://vercel.com), allowing me to publish my thoughts on the internet with a single **Ctrl + Shift + S** keyboard shortcut.
 
-![my workflow](../images/obsidian.jpg)
+![my workflow](../images/sync.jpg)
 
 # Planting the seeds
 
