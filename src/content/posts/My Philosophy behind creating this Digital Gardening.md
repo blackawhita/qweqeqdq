@@ -34,7 +34,7 @@ Once I start growing the plant, I tend to give it a shape that I like. Of course
 > Everything is already being said long time ago, but the implication and understanding of it is personal - Carl Jung
 
 
-![took inspiration to create something orignal](../images/idea.jpg)
+![how i came up to this poster](../images/idea.jpg)
 
 
 # Pulling the weeds
