@@ -3,6 +3,9 @@ title: Setting up my Digital Garden
 pubDate:
   - 2026-06-12
 ---
+![](../images/garden.jpg)
+<p align="center"><sub>(the growth journey of a sapling)</sub></p>
+
 I am quite new to this idea of *Digital Gardening*, as I was searching for a medium that can hold my thoughts as well as to give me that creative freedom which feels exciting to pursue. I do not have a hate relation with the mainstream social platforms like Instagram and Youtube, in fact I believe they are extremely powerful in terms of resource and reach but putting up my thoughts over there taught me something new that I do not enjoy unnecessary loudness, nor do I like to fit in a way to be more relatable. I started valuing my core personality which yearns for building in silence, in private, booming feels natural to me and hence this garden came into existence.
 
 I have used blog based mediums in the past, from Tumblr to Reddit, but the fact of being under control of some company who wants to push certain content just because of its profits always bothered me. I found being genuine is not what drives the algorithm but rather the amount of reach it can pull. So to tackle all this, I desired to have something which is away from all these, and to have that freedom - I created something of my own.
@@ -27,9 +30,6 @@ My new tab is a garden of developing thoughts. Ideas that are gathered from book
 > Everything is already being said long time ago, but the implication and understanding of it is personal. - Carl Jung
 
 Once I start growing the plant, I tend to give it a shape that I like. Of course, I have understood by now that nothing is entirely genuine[^5]and we all tend to copy things either consciously or subconsciously. I still try to dip it into my flavor, wrap it up and present it with my own branding. 
-
-![](../images/garden.jpg)
-<p align="center"><sub>(the growth journey of a sapling)</sub></p>
 
 # Pulling the weeds
 
