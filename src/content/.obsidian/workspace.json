@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eddfe6e22a1ff0da",
+            "id": "a130e211dbb60255",
             "type": "leaf",
             "state": {
               "type": "bases",
@@ -139,14 +139,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "eddfe6e22a1ff0da",
+  "active": "a130e211dbb60255",
   "lastOpenFiles": [
+    "posts/_the-tr-808-story.md",
+    "_bases/Home.base",
     "posts/_markdown-style-guide.md",
     "posts/_KaTeX-example.md",
     "posts/_embedded-content.md",
     "posts/_using-mdx.mdx",
     "posts/_theme-guide.md",
-    "posts/the-tr-808-story.md",
     "posts/_My Youtube consumption.md",
     "posts/_assets/theme-toggle.webp",
     "posts/_assets/reading-time.webp",
@@ -159,7 +160,6 @@
     "images/HQNEZnt-calvin-and-hobbes-desktop-wallpaper.png",
     "images/Untitled - June 18, 2026 08.05.25.jpg",
     "images/WhatsApp Image 2026-05-30 at 21.16.22.jpeg",
-    "_bases/Home.base",
     "about/about.md",
     "_GUIDE.md",
     "posts/draft-example.md",
