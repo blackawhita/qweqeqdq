@@ -20,8 +20,7 @@ I stopped reading after joining Philosophy and even during Philosophy I read not
 
 What made me the happiest was going back to my collection of science magazines which I used to read during COVID, I remember every night was a star gazing event with a friend on call after dinner. A few of Youtubers[^3]that I loved in the past who made juicy content on Science, started getting into my feed again. It was like living in the past with curiosity of a child but the brain of an adult. I rarely felt overwhelmed by these topics but I knew that If I did not let them flow intermittently, I might end up losing the 
 threads.
-![](../images/3F32600B-083B-4B2C-A499-7B20747974C1_1_201_a.jpeg)
-<p align="center"><sub>(Moon with Venus during COVID)</sub></p>
+![Moon with Venus during COVID](../images/3F32600B-083B-4B2C-A499-7B20747974C1_1_201_a.jpeg)
 
 # Watering the plants
 
