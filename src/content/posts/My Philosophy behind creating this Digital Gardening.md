@@ -56,7 +56,7 @@ Through this, I am making an effort to keep my thoughts open in public, I tend t
 
 [^3]: I loved Veritasium and Vsauce as they were my favorite back then, but since they have stepped down a bit from the ladder to focus on their personal life, I still go back to watch their old videos. Kurzgesagt, The Slow Mo Guys, and many others were the jewels of my feed.
 
-[^4]: Recurring thoughts are indicators of underlying stress or a deep-seated emotional conflict. Since their importance is higher than that of a normal fleeting thought, I tend to write them somewhere with the hope of giving them some attention. My understanding is that these thoughts are desperate for my attention, and once I tell them, “Okay, tonight I’ll hear what you want to say,” it solves half of the problem, as they feel valued.
+[^4]: Recurring thoughts are indicators of underlying stress or a deep-seated emotional conflict. Since their importance are higher than that of a normal fleeting thought, I tend to write it somewhere with the hope of giving them proper attention once I get free. My understanding is that these thoughts are desperate for my attention, and once I tell them, “Okay, tonight I’ll hear what you want to say,” it solves half of the problem, as they feel valued.
 
 [^5]: I don't remember exactly but I read a folklore somewhere and it was something like - A man who lived all his life in a dense forest, spent years observing how leaves fell and rivers flowed. One day, after watching countless objects drop to the ground, he formulated the principle of gravitation. Bursting with excitement, he emerged from the forest to share his discovery with the world only to find out that the concept had been uncovered centuries ago.
 
