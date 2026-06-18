@@ -4,7 +4,6 @@ pubDate:
   - 2026-06-12
 ---
 ![](../images/garden.jpg)
-<p align="center"><sub>(the growth journey of a sapling)</sub></p>
 
 I am quite new to this idea of *Digital Gardening*, as I was searching for a medium that can hold my thoughts as well as to give me that creative freedom which feels exciting to pursue. I do not have a hate relation with the mainstream social platforms like Instagram and Youtube, in fact I believe they are extremely powerful in terms of resource and reach but putting up my thoughts over there taught me something new that I do not enjoy unnecessary loudness, nor do I like to fit in a way to be more relatable. I started valuing my core personality which yearns for building in silence, in private, booming feels natural to me and hence this garden came into existence.
 
@@ -12,7 +11,8 @@ I have used blog based mediums in the past, from Tumblr to Reddit, but the fact 
 # Keeping the base ready
 
 I have been a writing baby since long and every major twist and turn in my life has been jotted down somewhere, so to start a blog website required to learn few additional skills on top of that. I firstly hit my head to learn HTML and CSS, these two are core technologies used to build a web page. As I remember being taught in class X that I chose not to take it seriously back then, which resulted to do it again from the beginning. It took me nearly a week to understand all of that, and then I started applying few terminal commands on my mac to run it locally.[^1]I picked [**Astro**](https://astro.build) for the framework, in which I liked the theme named [**Chiri**](https://astro.build/themes/details/chiri/)[^2]as I felt drawn to it by its simplicity and cuteness. After then, all I needed was to sync it with my [**Obsidian Vault**](https://obsidian.md/) which generates .md files aka written thoughts. Once everything was set tightly, purchasing a domain to publish was the final step. I threw up few of my writings there and liked the way how they looked on my website. I also wanted my thoughts to be frictionless, so I set up [**GitHub**](https://github.com/) account and linked my repository with [**Vercel**](https://vercel.com), allowing me to publish my thoughts on the internet with a single **Ctrl + Shift + S** keyboard shortcut.
-![youmi](../images/Untitled%20-%20June%2018,%202026%2008.05.25.jpg)<p align="center"><sub>(my workflow)</sub></p>
+
+![my workflow](../images/obsidian.jpg)
 
 # Planting the seeds
 
@@ -38,7 +38,7 @@ I’ve always liked the feeling of possibility. The idea that I could learn one 
 
 ![focus means distraction management](../images/table.jpg)
 
-# Ending note ̑
+# Ending note
 
 I am learning to do things imperfectly, that does not mean that I put in sub-level effort. Looking back at writing from a year ago, makes me cringe a little but like this garden, It'll evolve with time so I need not to feel pressurized by my own creative standards.[^7] There is no final state here, just like my thoughts which are always in a state of flux, this place shall change with time as well. 
 
