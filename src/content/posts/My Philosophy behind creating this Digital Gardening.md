@@ -9,7 +9,7 @@ I have used blog based mediums in the past, from Tumblr to Reddit, but the fact 
 # Keeping the base ready
 
 I have been a writing baby since long and every major twist and turn in my life has been jotted down somewhere, so to start a blog website required to learn few additional skills on top of that. I firstly hit my head to learn HTML and CSS, these two are core technologies used to build a web page. As I remember being taught in class X that I chose not to take it seriously back then, which resulted to do it again from the beginning. It took me nearly a week to understand all of that, and then I started applying few terminal commands on my mac to run it locally.[^1]I picked [**Astro**](https://astro.build) for the framework, in which I liked the theme named [**Chiri**](https://astro.build/themes/details/chiri/)[^2]as I felt drawn to it by its simplicity and cuteness. After then, all I needed was to sync it with my [**Obsidian Vault**](https://obsidian.md/) which generates .md files aka written thoughts. Once everything was set tightly, I purchased a domain to publish. I threw up few of my writings there and I liked the way how they looked on my website. I also wanted my thoughts to be frictionless, so I set up [**GitHub**](https://github.com/) account and linked my repository with [**Vercel**](https://vercel.com), allowing me to publish my thoughts on the internet with a single **Ctrl + Shift + S** keyboard shortcut.
-![How it all works](../images/Untitled%20-%20June%2018,%202026%2008.05.25.jpg)
+![](../images/Untitled%20-%20June%2018,%202026%2008.05.25.jpg)
 <p align="center"><sub>my workflow</sub></p>
 
 # Planting the seeds
@@ -18,7 +18,7 @@ I stopped reading after I joined Philosophy and even during Philosophy I read no
 
 What made me the happiest was going back to my collection of science magazines which I used to read during COVID, I remember every night was a star gazing event with a friend on call after dinner. A few of Youtubers[^3]that I loved in the past who made juicy content on Science, started getting into my feed again. It was like living in the past with curiosity of a child but the brain of an adult. I rarely felt overwhelmed by these topics but I knew that If I did not let them flow intermittently, I might end up losing the 
 threads.
-![Moon with Venus captured during COVID days|637](../images/3F32600B-083B-4B2C-A499-7B20747974C1_1_201_a.jpeg)
+![](../images/3F32600B-083B-4B2C-A499-7B20747974C1_1_201_a.jpeg)
 <p align="center"><sub>Moon with Venus during COVID</sub></p>
 
 # Watering the plants
