@@ -11,13 +11,15 @@
             "id": "a130e211dbb60255",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "_bases/Home.base",
-                "viewName": "Posts"
+                "file": "posts/My Philosophy behind creating this Digital Gardening.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-home",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "My Philosophy behind creating this Digital Gardening"
             }
           }
         ]
@@ -141,8 +143,8 @@
   },
   "active": "a130e211dbb60255",
   "lastOpenFiles": [
-    "posts/_the-tr-808-story.md",
     "_bases/Home.base",
+    "posts/_the-tr-808-story.md",
     "posts/_markdown-style-guide.md",
     "posts/_KaTeX-example.md",
     "posts/_embedded-content.md",
