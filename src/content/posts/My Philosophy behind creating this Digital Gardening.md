@@ -33,7 +33,7 @@ My new tab is a garden of developing thoughts. Ideas that are gathered from book
 
 Once I start growing the plant, I tend to give it a shape that I like. Of course, I have understood by now that nothing is entirely genuine[^5]and we all tend to copy things either consciously or subconsciously. I still try to dip it into my flavor, wrap it up and present it with my own branding. 
 
-![process of my creation](../images/idea.jpg)
+![took inspiration to create something of m](../images/idea.jpg)
 
 
 # Pulling the weeds
