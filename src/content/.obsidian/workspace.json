@@ -11,13 +11,15 @@
             "id": "ee2477004e3895db",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "_bases/Home.base",
-                "viewName": "Posts"
+                "file": "posts/_the-tr-808-story.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-home",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "_the-tr-808-story"
             }
           }
         ]
@@ -141,7 +143,8 @@
   },
   "active": "ee2477004e3895db",
   "lastOpenFiles": [
-    "posts/markdown-style-guide.md",
+    "_bases/Home.base",
+    "posts/_markdown-style-guide.md",
     "posts/_KaTeX-example.md",
     "posts/_embedded-content.md",
     "posts/My Philosophy behind creating this Digital Gardening.md",
@@ -155,7 +158,6 @@
     "images/HQNEZnt-calvin-and-hobbes-desktop-wallpaper.png",
     "images/3F32600B-083B-4B2C-A499-7B20747974C1_1_201_a.jpeg",
     "images/IMG_20200328_203344-2.jpg",
-    "_bases/Home.base",
     "posts/_assets/copy-code.webp",
     "posts/_assets/tr-808.webp",
     "posts/_assets/toc.webp",
