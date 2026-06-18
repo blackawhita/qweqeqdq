@@ -13,7 +13,7 @@ I have been a writing baby since long and every major twist and turn in my life 
 
 # Planting the seeds
 
-I stopped reading after I joined Philosophy and even during Philosophy I read nothing, I relied entirely on LLMs which made me lazy to an extent that reading a single page felt like a task. I knew it needed to be changed. I picked up few of my novels which I loved and to my surprise, the friction was less than I thought it'd be. After lingering on few topics, I felt like extending the idea through my own writing and by then I had already gotten myself into the flow, something you can see in this blog post as one example. 
+I stopped reading after joining Philosophy and even during Philosophy I read nothing, I relied entirely on LLMs which made me lazy to an extent that reading a single page felt like a task. I knew it needed to be changed. I picked up few of my novels which I loved and to my surprise, the friction was less than I thought it'd be. After lingering on few topics, I felt like extending the idea through my own writing and by then I had already gotten myself into the flow, something you can see in this blog post as one example. 
 
 What made me the happiest was going back to my collection of science magazines which I used to read during COVID, I remember every night was a star gazing event with a friend on call after dinner. A few of Youtubers[^3]that I loved in the past who made juicy content on Science, started getting into my feed again. It was like living in the past with curiosity of a child but the brain of an adult. I rarely felt overwhelmed by these topics but I knew that If I did not let them flow intermittently, I might end up losing the 
 threads.
