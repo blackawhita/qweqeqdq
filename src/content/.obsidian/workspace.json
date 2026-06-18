@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39fe5c994c970973",
+            "id": "b09f98654a76b74d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spotlight",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -142,31 +141,31 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "39fe5c994c970973",
+  "active": "b09f98654a76b74d",
   "lastOpenFiles": [
-    "_bases/Home.base",
-    "posts/My Philosophy behind creating this Digital Gardening.md",
     "posts/_My Youtube consumption.md",
+    "images/3F32600B-083B-4B2C-A499-7B20747974C1_1_201_a.jpeg",
+    "images/HQNEZnt-calvin-and-hobbes-desktop-wallpaper.png",
+    "posts/My Philosophy behind creating this Digital Gardening.md",
+    "images/Untitled - June 18, 2026 08.05.png",
+    "images/IMG_20200328_203344-2.jpg",
+    "images/WhatsApp Image 2026-05-30 at 21.16.22.jpeg",
+    "posts/_using-mdx.mdx",
+    "_bases/Home.base",
     "posts/_the-tr-808-story.md",
     "posts/_assets/copy-code.webp",
     "posts/_assets/tr-808.webp",
     "posts/_assets/toc.webp",
     "posts/_assets/theme-toggle.webp",
     "posts/_assets/reading-time.webp",
-    "posts/_assets/dotted-divider.webp",
-    "posts/_assets/date-on-left.webp",
     "posts/_embedded-content.md",
     "posts/_markdown-style-guide.md",
     "about/about.md",
     "_GUIDE.md",
     "posts/_KaTeX-example.md",
     "posts/_theme-guide.md",
-    "posts/_using-mdx.mdx",
-    "posts/_assets/hikari.webp",
     "posts/draft-example.md",
     "posts/Pewdiepie is gehh.md",
-    "posts/_assets/a.png",
-    "images/WhatsApp Image 2026-05-30 at 21.16.22.jpeg",
     "images"
   ]
 }
