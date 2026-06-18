@@ -11,13 +11,15 @@
             "id": "0599f753f4c93c33",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "_bases/Home.base",
-                "viewName": "Posts"
+                "file": "posts/the-tr-808-story.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-home",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "the-tr-808-story"
             }
           }
         ]
@@ -141,8 +143,8 @@
   },
   "active": "0599f753f4c93c33",
   "lastOpenFiles": [
-    "posts/the-tr-808-story.md",
     "_bases/Home.base",
+    "posts/the-tr-808-story.md",
     "posts/_markdown-style-guide.md",
     "posts/_KaTeX-example.md",
     "posts/_embedded-content.md",
