@@ -1,6 +1,6 @@
 ---
 title: The TR-808 Story
-pubDate: 2026-06-12
+pubDate: 2026-06-18
 ---
  qwewqewqewqewqewqewq
 ![tr-808](./_assets/tr-808.webp)
