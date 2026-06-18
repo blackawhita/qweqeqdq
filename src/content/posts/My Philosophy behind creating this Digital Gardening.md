@@ -37,7 +37,10 @@ I’ve always liked the feeling of possibility. The idea that I could learn one 
 
 > We are all constantly bombarded with information, a lot of it is really good information too, but the challenge is absorbing it and applying it to the context of our lives and careers. — Joel Hooks
 
-# Ending note
+![637](../images/table.jpg)
+<p align="center"><sub>(focus means distraction management)</sub></p>
+
+# Ending note ̑
 
 I am learning to do things imperfectly, that does not mean that I put in sub-level effort. Looking back at writing from a year ago, makes me cringe a little but like this garden, It'll evolve with time so I need not to feel pressurized by my own creative standards.[^7] There is no final state here, just like my thoughts which are always in a state of flux, this place shall change with time as well. 
 
