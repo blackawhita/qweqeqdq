@@ -38,7 +38,6 @@ I’ve always liked the feeling of possibility. The idea that I could learn one 
 > We are all constantly bombarded with information, a lot of it is really good information too, but the challenge is absorbing it and applying it to the context of our lives and careers. — Joel Hooks
 
 ![focus means distraction management](../images/table.jpg)
-<p align="center"><sub>(focus means distraction management)</sub></p>
 
 # Ending note ̑
 
