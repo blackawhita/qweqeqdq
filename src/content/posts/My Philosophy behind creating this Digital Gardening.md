@@ -22,7 +22,7 @@ threads.
 
 # Watering the plants
 
-My new tab is a garden of developing thoughts. Ideas that are gathered from books, articles, videos are planted and nurtured here. I synced Obsidian with all my devices so to have an option to write down quickly before it fleets away with time. I also keep pen and paper on the table available to capture it. Thoughts are transient in nature, hence most of them get planted, watered and eroded by the time I plan to write, so having the tools available is important for this digital garden to exist. Not to mention that some thoughts are recurring,[^4]which means that I haven't processed them properly thus they are important to handle, as I start writing about it I get to know if it's worth watering for the longer run or better left to die, but the fact that I like giving them a chance to nurture is itself satisfying. 
+My new tab is a garden of developing thoughts. Ideas that are gathered from books, articles, videos are planted and nurtured here. I synced Obsidian with all my devices so to have an option to write down quickly before it fleets away with time. Thoughts are transient in nature, hence most of them get planted, watered and eroded by the time I plan to write, so having the tools available is important for this digital garden to exist. Not to mention that some thoughts are recurring,[^4]which means that I haven't processed them properly thus they are important to handle, as I start writing about it I get to know if it's worth watering for the longer run or better left to die, but the fact that I like giving them a chance to nurture is itself satisfying. 
 
 > Everything is already being said long time ago, but the implication and understanding of it is personal. - Carl Jung
 
