@@ -29,7 +29,7 @@ threads.
 
 My new tab is a garden of developing thoughts. Ideas that are gathered from books, articles, videos are planted and nurtured here. I synced Obsidian with all my devices so to have an option to write down quickly before it fleets away with time. Thoughts are transient in nature, hence most of them get planted, watered and eroded by the time I plan to write, so having the tools available is important for this digital garden to exist. Not to mention that some thoughts are recurring,[^4]which means that I haven't processed them properly thus they are important to handle, as I start writing about it I get to know if it's worth watering for the longer run or better left to die, but the fact that I like giving them a chance to nurture is itself satisfying. 
 
-> Everything is already being said long time ago, but the implication and understanding of it is personal. - Carl Jung
+> `Everything is already being said long time ago, but the implication and understanding of it is personal - Carl Jung`
 
 Once I start growing the plant, I tend to give it a shape that I like. Of course, I have understood by now that nothing is entirely genuine[^5]and we all tend to copy things either consciously or subconsciously. I still try to dip it into my flavor, wrap it up and present it with my own branding. 
 
@@ -37,7 +37,7 @@ Once I start growing the plant, I tend to give it a shape that I like. Of course
 
 I’ve always liked the feeling of possibility. The idea that I could learn one more thing, start one more project, explore one more curiosity. For a while, I treated every interesting opportunity as something that deserved a place in my life. What I’ve been slow to understand is that it's not necessary to have the desire to know everything, even if it seems noble[^6]to have it. My problem has never been a lack of curiosity, If anything, it’s the opposite. I find too many things fascinating. Every book opens ten new doors, every conversation points me toward another subject worth exploring. The result is a growing collection of unfinished paths, each one competing for the same limited attention. By setting up this garden, I am categorizing my thoughts in hierarchy so to focus accordingly. Again, I refute the notion that we shouldn't let few thoughts come to our mind as it's not right to have it, I believe no thought is bad and be restricted strictly. I can't do it, I don't have that control, neither I want to have that "Sage Power", but rather I preach to invite every thoughts with open arms. Once I put the spotlight to one of them, it automatically takes away attention from others and hence the filter gets applied naturally.
 
-> We are all constantly bombarded with information, a lot of it is really good information too, but the challenge is absorbing it and applying it to the context of our lives and careers - Joel Hooks
+> `We are all constantly bombarded with information, a lot of it is really good information too, but the challenge is absorbing it and applying it to the context of our lives and careers - Joel Hooks`
 
 ![focus means distraction management](../images/table.jpg)
 
