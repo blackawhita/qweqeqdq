@@ -56,7 +56,7 @@ Through this, I am making an effort to keep my thoughts open in public, I tend t
 
 [^2]: It's easier to get lazy and neglect the work seeing a dirty room but a cleaned one demands constant effort to maintain, that's why I want my website to look aesthetically pleasing so that my body tends to move naturally to keep it clean. This theme, unlike others, kept my taste buds tingling.
 
-[^3]: I loved Veritasium and Vsauce as they were my favorite back then, but since they have stepped down a bit from the ladder to focus on their personal life, I still go back to watch their old videos. Kurzgesagt, The Slow Mo Guys, and many others were the jewels of my feed.
+[^3]: I loved Veritasium and Vsauce as they were my favorite back then, but since they stepped down from the ladder a bit to focus on their personal life, I still go back to watch their old videos. Kurzgesagt, The Slow Mo Guys, and many others were the jewels of my feed.
 
 [^4]: Recurring thoughts are indicators of underlying stress or a deep-seated emotional conflict. Since their importance are higher than that of a normal fleeting thought, I tend to write it somewhere with the hope of giving them proper attention once I get free. My understanding is that these thoughts are desperate for my attention, and once I tell them, “Okay, tonight I’ll hear what you want to say,” it solves half of the problem, as they feel valued.
 
