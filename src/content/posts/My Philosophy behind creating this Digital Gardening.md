@@ -52,7 +52,7 @@ I refute the notion that we should control our thoughts, I can't do it, I don't 
 I am learning to do things imperfectly, that does not mean that I put in sub-level effort. Looking back at writing from a year ago, makes me cringe a little but like this garden, It'll evolve with time so I need not to feel pressurized by my own creative standards.[^7] There is no final state here, just like my thoughts which are always in a state of flux, this place shall change with time as well. 
 
 Through this, I am making an effort to keep my thoughts open in public, I tend to share my success, failures and everything in between with the intent of someone getting inspired by looking at it, learns from mistakes I made, then my reason for putting this online will be even sweeter.
-[^1]: It was excruciatingly painful to go through these, at once I thought of automating it with Claude but again that didn't fetch something desired so I had to go through this tediously which took me almost a week more to setup.
+[^1]: It was excruciatingly painful to go through these, at once I thought of automating it with Claude but again that didn't fetch something desired so I had to go through this tediously. Framer was also an option and I almost finished building it there, but its CMS limitation and weird pricing system pushed me to go old route.
 
 [^2]: It's easier to get lazy and neglect the work seeing a dirty room but a cleaned one needs constant efforts to maintain, that's why I want my website to look aesthetically pleasing at least so my body tends to move naturally to keep it clean. This theme, unlike others, felt just like what my taste is.
 
