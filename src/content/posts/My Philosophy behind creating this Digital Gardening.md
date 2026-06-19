@@ -54,7 +54,7 @@ I am learning to do things imperfectly, that does not mean that I put in sub-lev
 Through this, I am making an effort to keep my thoughts open in public, I tend to share my success, failures and everything in between with the intent of someone getting inspired by looking at it, learns from mistakes I made, then my reason for putting this online will be even sweeter.
 [^1]: It was excruciatingly painful to go through these, at once I thought of automating it with Claude but again that didn't fetch something desired so I had to go through this tediously. Framer was also an option and I almost finished building it there, but its CMS limitation and weird pricing system pushed me to go old route.
 
-[^2]: It's easier to get lazy and neglect the work seeing a dirty room but a cleaned one demands constant effort to maintain, that's why I want my website to look aesthetically pleasing at least to me so that my body tends to move naturally to keep it clean. This theme, unlike others, felt just like what my taste is.
+[^2]: It's easier to get lazy and neglect the work seeing a dirty room but a cleaned one demands constant effort to maintain, that's why I want my website to look aesthetically pleasing so that my body tends to move naturally to keep it clean. This theme, unlike others, felt just like what my taste is.
 
 [^3]: I loved Veritasium and Vsauce as they were my favorite back then, but since they have stepped down a bit from the ladder to focus on their personal life, I still go back to watch their old videos. Kurzgesagt, The Slow Mo Guys, and many others were the jewels of my feed.
 
