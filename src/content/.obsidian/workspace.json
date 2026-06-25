@@ -8,18 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52febf82d9d35236",
+            "id": "6f1afa5eea6a20b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "posts/the-tr-808-story.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "_bases/Home.base",
+                "viewName": "Posts"
               },
-              "icon": "lucide-file",
-              "title": "the-tr-808-story"
+              "icon": "lucide-home",
+              "title": "Home"
             }
           }
         ]
@@ -142,18 +140,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "52febf82d9d35236",
+  "active": "6f1afa5eea6a20b1",
   "lastOpenFiles": [
+    "posts/_the-tr-808-story.md",
     "posts/_embedded-content.md",
     "posts/_KaTeX-example.md",
     "posts/_markdown-style-guide.md",
     "posts/_theme-guide.md",
     "posts/_using-mdx.mdx",
     "_bases/Home.base",
-    "posts/the-tr-808-story.md",
     "posts/_assets/Recording 20260625164754.m4a",
     "posts/_assets/Recording 20260625164725.m4a",
-    "posts/Cousin's Delhi Trip.md",
+    "posts/_Cousin's Delhi Trip.md",
     "posts/My Philosophy behind creating this Digital Gardening.md",
     "posts/_My Youtube consumption.md",
     "_GUIDE.md",
