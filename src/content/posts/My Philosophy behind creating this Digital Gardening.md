@@ -64,10 +64,7 @@ Through this, I am making an effort to keep my thoughts open in public, I tend t
 
 [^6]: I am currently watching **Dr. Stone** (a science-based anime), where this idea of “desire being noble” came up to me. It is said that the reason humanity progressed so far is because someone, at some point, desired a better world. That desire pushed humans to discover, invent, and continuously improve the conditions of their lives. The more I think about it, the more convincing it feels and you can see this website into action because of that desire too.
 
-[^7]: My standards are notoriously high, which deserves a beating so it'll be less taxing on me. I have been actively working on it since last year and I can feel the easiness while writing even though I tend to keep this one more towards formal side.
-
-
-Thank You for giving me time to real till last and i will meet you with a new post in a while ✿
+[^7]: My standards are notoriously high, which deserves a beating so it'll be less taxing on me. I have been actively working on it since last year and I can feel the easiness while writing even though I tend to keep this one more towards formal side. 
 
 
 
