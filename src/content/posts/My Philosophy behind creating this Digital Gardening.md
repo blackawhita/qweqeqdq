@@ -62,9 +62,12 @@ Through this, I am making an effort to keep my thoughts open in public, I tend t
 
 [^5]: I don't remember exactly but I read a folklore somewhere and it was something like - A man who lived all his life in a dense forest, spent years observing how leaves fell and rivers flowed. One day, after watching countless objects drop to the ground, he formulated the principle of gravitation. Bursting with excitement, he emerged from the forest to share his discovery with the world only to find out that the concept had been uncovered centuries ago.
 
-[^6]: I am currently watching **Dr. Stone** (a science-based anime), where this idea of “desire being noble” came up to me. It is said that the reason humanity progressed so far is because someone, at some point, desired a better world. That desire pushed humans to discover, invent, and continuously improve the conditions of their lives. The more I think about it, the more convincing it feels.
+[^6]: I am currently watching **Dr. Stone** (a science-based anime), where this idea of “desire being noble” came up to me. It is said that the reason humanity progressed so far is because someone, at some point, desired a better world. That desire pushed humans to discover, invent, and continuously improve the conditions of their lives. The more I think about it, the more convincing it feels and you can see this website into action because of that desire too.
 
-[^7]: My standards are notoriously high, which deserves a beating so it'll be less taxing on me. I have been actively working on it since last year and I can feel the easiness while writing this even though I tend to keep this one more towards formal side. 
+[^7]: My standards are notoriously high, which deserves a beating so it'll be less taxing on me. I have been actively working on it since last year and I can feel the easiness while writing even though I tend to keep this one more towards formal side.
+
+
+Thank You for giving me your time and i am leaving you with a small reminder to take care of yourself ✿
 
 
 
