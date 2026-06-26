@@ -67,7 +67,7 @@ Through this, I am making an effort to keep my thoughts open in public, I tend t
 [^7]: My standards are notoriously high, which deserves a beating so it'll be less taxing on me. I have been actively working on it since last year and I can feel the easiness while writing even though I tend to keep this one more towards formal side.
 
 
-Thank You for giving me your time and i will meet you with a new post in a while ✿
+Thank You for giving me time to real till last and i will meet you with a new post in a while ✿
 
 
 
