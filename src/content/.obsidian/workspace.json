@@ -8,18 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d2495c487b8cb58",
+            "id": "5f28ec0463ad9ad9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "posts/Cousin's Delhi Trip.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "_bases/Home.base",
+                "viewName": "Posts"
               },
-              "icon": "lucide-file",
-              "title": "Cousin's Delhi Trip"
+              "icon": "lucide-home",
+              "title": "Home"
             }
           }
         ]
@@ -142,10 +140,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1d2495c487b8cb58",
+  "active": "5f28ec0463ad9ad9",
   "lastOpenFiles": [
+    "posts/_Cousin's Delhi Trip.md",
     "_bases/Home.base",
-    "posts/Cousin's Delhi Trip.md",
     "posts/_embedded-content.md",
     "posts/_the-tr-808-story.md",
     "posts/_KaTeX-example.md",
