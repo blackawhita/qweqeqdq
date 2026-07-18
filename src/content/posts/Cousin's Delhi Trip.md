@@ -1,6 +1,7 @@
 ---
 title: Hosting a Delhi Trip for my cousins
-pubDate: 2026-07-19
+pubDate:
+  - 2026-07-13
 ---
 ## Delhi heat with my cousins 
 
