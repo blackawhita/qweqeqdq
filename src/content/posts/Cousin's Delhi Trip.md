@@ -8,7 +8,7 @@ So here's how it all began. One day, completely out of nowhere, my phone started
 Now, a little context - these cousins are my maternal uncle's (Mama's) kids, who'd only just turned old enough to vote. So even though we're technically all "Gen Z" but you can still feel the generational gap between us. This was also going to be their first solo trip, yeah without their parents and for comparison, I didn't get to travel alone for leisure until my early twenties, so these two kids were already beating my record. After some careful planning - and a few false promises to their parents for behaving well - they pulled it off, and our week-long trip officially began.
 
 
-![Fun inside, Bully Outside](_assets/4.png)
+![fun inside, bully outside](_assets/4.png)
 
 
 
@@ -21,7 +21,7 @@ A bit disappointed after the first outing, I suggested India Gate for the next d
 Akshardham turned out to be our favorite by far - it is less of a religious site and more like a picnic spot. One cousin loved the food court, while the other couldn't stop talking about the boat ride. They take your phone and the belongings at the gate so the whole experience is full digital detox. The Temple has something to offer to everyone - even if you aren't religious, you can still appreciate the beautifully carved stone animals and the birdsong echoing from every corner of the architecture. While those who do come with faith, can connect with the story of Swaminarayan and bow their heads in reverence. The Museum inside is the best ever I have ever seen, you walk through those hyper-realistic dioramas that feels like watching live cinema while it covers heavy topics like peace, non-violence, humility - but the mode of telling is with stories rather than lecturing. The light-and-sound show was stunning even though we ended up mocking through most of the story, but by the end, even the skeptics among us felt something. It was actually my first time staying there till night and experiencing everything, and I was glad it happened with them.
 
 
-![fake smiles yet real fun](_assets/2.png)
+![sweating yet smiling](_assets/2.png)
 
 
 
@@ -33,7 +33,7 @@ We also tried cooking at home, and somehow ended up filming all four of us just 
 
 
 
-![bring moreee...](_assets/1.png)
+![how much is enough?](_assets/1.png)
 
 
 ## Mystery Room
@@ -43,7 +43,7 @@ I'd known about escape rooms for a while, but they always felt like throwing too
 We didn't start off well, honestly it was the worst players to be in a team - siblings and cousins aren't exactly known for smooth teamwork, and given a chance, we'd rather bicker than collaborate. But somewhere along the way, we found our rhythm. We crawled through a pitch-black tunnel like toddlers to find a key, and climbed a wall to find the next clue. With the clock ticking down, we were kind of panicking, but the last few clues clicked so easily that we escaped with just minutes to spare. It felt surreal to me as this was something I used to watch on TV with my sister after school, never imagining I'd actually do it myself one day. All four of us walked out with medals with gold plated and took a photo to post which still hasn't been uploaded by them till the time of writing this. 
 
 
-![The fun was epic, but left a hole in our pockets](_assets/5.png)
+![survived to win a shinny medal](_assets/5.png)
 
 
 ## Late Night Talks and Games
@@ -53,10 +53,10 @@ This part I loved the most - four of us crammed into one room, lights off, talki
 We had already been planning our gaming sessions before the trip even started. One of my cousins is a compulsive gamer - ask him literally anything about games, and he'll have an answer. I enjoy games too, just not the competitive kind anymore as they stress me out more than to entertain me. We played Business (the Indian version of Monopoly), which has become our OG thing to play whenever we're all in one room. Though, I got financially wrecked while we played most of the nights, but it was a blast regardless. I like to think that I'm decent at Uno, since I've actually learnt strategies to win from Youtube, but the truth is, the game depends less on skill and more on who's sitting next to you. My sister knew every move I made, which was exactly why she won most of the rounds. We also played an online drawing-and-guessing game, and some of our worst drawings turned out to impossible to decipher yet so much fun pulling each other's legs for bad skill.
 
 
-![Old board games are still the best](_assets/3.png)
+![old skool board games are still the best](_assets/3.png)
 
 
-##Ending Note
+## Ending Note
 
 Honestly, I loved playing the part of a host to my cousins - it felt like reliving my own childhood. I used to be a mischievous kid, always chasing the next prank just for the thrill of it, and I realized that part of me hasn't really changed with age. Watching their eyes light up over the smallest things reminded me how much I genuinely want the people I love to be happy. It's a strange comfort to feel your happiness being tied to someone important to you - making them smile brings me a kind of joy I can't quite explain.
 
