@@ -1,7 +1,6 @@
 ---
 title: Hosting a Delhi Trip for my cousins
-pubDate:
-  - 2026-07-13
+pubDate: 2026-07-19
 ---
 So here's how it all began. One day, completely out of nowhere, my phone started ringing, which felt kinda strange as I couldn't remember the last time anyone had actually called me. I rushed to check who it was, and to my surprise, it was one of my cousins reaching out. She told me that she was planning to come with her brother to spend their summer holidays in Delhi, and my first reaction was, "Are you sure that you can handle this heat? Even cleaning butts after a pooping session feels like hell". I wasn't even exaggerating - it was peak Delhi summer, with temperatures hitting 42 degrees for weeks with no sign of relief. But her reply was even banger than my warning, she said she'd rather die of heatstroke than of boredom. After listening to that, I was like DAMNN for a sec. By then I'd also finished my Master's exam, so was thrilled at the idea of some fun time with them.
 
