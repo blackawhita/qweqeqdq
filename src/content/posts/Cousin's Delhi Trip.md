@@ -8,7 +8,7 @@ So here's how it all began. One day, completely out of nowhere, my phone started
 Now, a little context - these cousins are my maternal uncle's (Mama's) kids, who'd only just turned old enough to vote. So even though we're technically all "Gen Z" but you can still feel the generational gap between us. This was also going to be their first solo trip, yeah without their parents and for comparison, I didn't get to travel alone for leisure until my early twenties, so these two kids were already beating my record. After some careful planning - and a few false promises to their parents for behaving well - they pulled it off, and our week-long trip officially began.
 
 
-![fun inside, bully outside](_assets/4.png)
+![fun inside, bully outside|637](_assets/4.png)
 
 
 
@@ -33,7 +33,7 @@ We also tried cooking at home, and somehow ended up filming all four of us just 
 
 
 
-![how much is enoug?](_assets/1.png)
+![how much is enough?](_assets/1.png)
 
 
 ## Mystery Room
@@ -53,7 +53,7 @@ This part I loved the most - four of us crammed into one room, lights off, talki
 We had already been planning our gaming sessions before the trip even started. One of my cousins is a compulsive gamer - ask him literally anything about games, and he'll have an answer. I enjoy games too, just not the competitive kind anymore as they stress me out more than to entertain me. We played Business (the Indian version of Monopoly), which has become our OG thing to play whenever we're all in one room. Though, I got financially wrecked while we played most of the nights, but it was a blast regardless. I like to think that I'm decent at Uno, since I've actually learnt strategies to win from Youtube, but the truth is, the game depends less on skill and more on who's sitting next to you. My sister knew every move I made, which was exactly why she won most of the rounds. We also played an online drawing-and-guessing game, and some of our worst drawings turned out to impossible to decipher yet so much fun pulling each other's legs for bad skill.
 
 
-![old skool board games are still the best](_assets/3.png)
+![old skool games are still the OG](_assets/3.png)
 
 
 ## Ending Note
