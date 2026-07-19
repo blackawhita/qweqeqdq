@@ -11,13 +11,15 @@
             "id": "5f28ec0463ad9ad9",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "_bases/Home.base",
-                "viewName": "Posts"
+                "file": "posts/_Cousin's Delhi Trip.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-home",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "_Cousin's Delhi Trip"
             }
           }
         ]
@@ -142,6 +144,11 @@
   },
   "active": "5f28ec0463ad9ad9",
   "lastOpenFiles": [
+    "posts/_assets/dotted-divider.webp",
+    "posts/_assets/3.png",
+    "posts/_assets/2.png",
+    "posts/_assets/1.png",
+    "posts/_assets/theme-toggle.webp",
     "posts/_Cousin's Delhi Trip.md",
     "_bases/Home.base",
     "posts/_embedded-content.md",
@@ -160,11 +167,7 @@
     "posts/_assets/hikari.webp",
     "posts/_assets/date-on-left.webp",
     "posts/_assets/copy-code.webp",
-    "posts/_assets/theme-toggle.webp",
     "posts/_assets/tr-808.webp",
-    "images/WhatsApp Image 2026-05-30 at 21.16.22.jpeg",
-    "images/HQNEZnt-calvin-and-hobbes-desktop-wallpaper.png",
-    "images/idea.jpg",
     "about/about.md",
     "posts/draft-example.md",
     "posts/Pewdiepie is gehh.md",
