@@ -8,7 +8,7 @@ So here's how it all began. One day, completely out of nowhere, my phone started
 Now, a little context - these cousins are my maternal uncle's (Mama's) kids, who'd only just turned old enough to vote. So even though we're technically all "Gen Z" but you can still feel the generational gap between us. This was also going to be their first solo trip, yeah without their parents and for comparison, I didn't get to travel alone for leisure until my early twenties, so these two kids were already beating my record. After some careful planning - and a few false promises to their parents for behaving well - they pulled it off, and our week-long trip officially began.
 
 
-![fun inside, bully outside|637](_assets/4.png)
+![fun inside, bully outside](_assets/4.png)
 
 
 
