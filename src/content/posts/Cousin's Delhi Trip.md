@@ -1,5 +1,5 @@
 ---
-title: Hosting a Delhi Trip for my cousins
+title: Hosting Delhi trip for my cousins
 pubDate:
   - 2026-07-15
 ---
