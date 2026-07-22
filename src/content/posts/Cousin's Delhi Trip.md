@@ -53,7 +53,7 @@ This part I loved the most - four of us crammed into one room, lights off, talki
 We had already been planning our gaming sessions before the trip even started. One of my cousins is a compulsive gamer - ask him literally anything about games, and he'll have an answer. I enjoy games too, just not the competitive kinds anymore as they stress me out more than to entertain me. We played Business (the Indian version of Monopoly), which has become our OG thing to play whenever we're all in one room. Though, I got financially wrecked while we played, which was kind of reflection of how i deal with money in life. I like to think that I'm good at Uno, since I've actually learnt strategies to win from Youtube to flaunt in front of my school friends, but the truth is, the game depends less on skill and more on who's sitting next to you. My sister knew every move I made, which was exactly why she won most of the rounds. We also played skribbl.io which is an online drawing and guessing game, and some of our worst doodling turned out impossible to decipher, yet it was so much fun pulling each other's legs for having a shit skill.
 
 
-![old skool games are still the OG](_assets/3.png)
+![old skool games beat anything out  today](_assets/3.png)
 
 
 ## Ending Note
