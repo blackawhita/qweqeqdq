@@ -21,7 +21,7 @@ A bit disappointed after the first outing, I suggested India Gate for the next d
 Akshardham turned out to be our favorite by far - it is less of a religious site and more like a picnic spot. One cousin loved the food court, while the other couldn't stop talking about the boat ride. They took the phone and belongings at the gate, so the whole experience was a full digital detox. The Temple has something to offer to everyone - even if you aren't religious, you can still appreciate the beautifully carved stone animals and the birdsong echoing from every corner of the architecture. While those who do come with faith, can connect with the story of Swaminarayan and bow their heads in reverence. The Museum inside is the best I have ever seen, you walk through those hyper-realistic dioramas that covers heavy topics like peace, non-violence, humility - but the mode of telling is with stories rather than lecturing. The light-and-sound show was stunning even though we ended up mocking through most of the story, but by the end, even the skeptics among us felt something. It was actually my first time staying there till night and experiencing everything that the place can offer, and I was glad it happened with them.
 
 
-![sweating yet smiling](_assets/2.png)
+![grinning so hard that we could taste the sweat](_assets/2.png)
 
 
 
@@ -43,7 +43,7 @@ I'd known about escape rooms for a while, but they always felt like throwing too
 We didn't start off well, honestly it was the worst players to be in a team - siblings and cousins aren't exactly known for their smooth teamwork, and given a chance, we'd rather bicker than collaborate. But somewhere along the way, we found our rhythm. We crawled through a pitch-black tunnel like toddlers to find a key, and climbed a wall to find the next clue. With the clock ticking down, we were kind of panicking, but the last few clues clicked so easily that we escaped with just minutes to spare. It felt surreal to me as this was something I used to watch on TV with my sister after school, never imagining I'd actually do it myself one day. All four of us walked out with medals and took a photo to post which still hasn't been uploaded by them till the time of writing this. 
 
 
-![survived to win a shinny medal](_assets/5.png)
+![Sherlock Holmes must be proud of me](_assets/5.png)
 
 
 ## Late Night Talks and Games
@@ -53,7 +53,7 @@ This part I loved the most - four of us crammed into one room, lights off, talki
 We had already been planning our gaming sessions before the trip even started. One of my cousins is a compulsive gamer - ask him literally anything about games, and he'll have an answer. I enjoy games too, just not the competitive kinds anymore as they stress me out more than to entertain me. We played Business (the Indian version of Monopoly), which has become our OG thing to play whenever we're all in one room. Though, I got financially wrecked while we played, which was kind of reflection of how i deal with money in life. I like to think that I'm good at Uno, since I've actually learnt strategies to win from Youtube to flaunt in front of my school friends, but the truth is, the game depends less on skill and more on who's sitting next to you. My sister knew every move I made, which was exactly why she won most of the rounds. We also played skribbl.io which is an online drawing and guessing game, and some of our worst doodling turned out impossible to decipher, yet it was so much fun pulling each other's legs for having a shit skill.
 
 
-![old skool games beat anything out  today](_assets/3.png)
+![old skool games beat anything out today](_assets/3.png)
 
 
 ## Ending Note
