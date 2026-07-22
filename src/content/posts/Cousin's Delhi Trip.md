@@ -43,7 +43,7 @@ I'd known about escape rooms for a while, but they always felt like throwing too
 We didn't start off well, honestly it was the worst players to be in a team - siblings and cousins aren't exactly known for their smooth teamwork, and given a chance, we'd rather bicker than collaborate. But somewhere along the way, we found our rhythm. We crawled through a pitch-black tunnel like toddlers to find a key, and climbed a wall to find the next clue. With the clock ticking down, we were kind of panicking, but the last few clues clicked so easily that we escaped with just minutes to spare. It felt surreal to me as this was something I used to watch on TV with my sister after school, never imagining I'd actually do it myself one day. All four of us walked out with medals and took a photo to post which still hasn't been uploaded by them till the time of writing this. 
 
 
-![Sherlock Holmes must be proud of me](_assets/5.png)
+![Sherlock Holmes would've been proud of us](_assets/5.png)
 
 
 ## Late Night Talks and Games
