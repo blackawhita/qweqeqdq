@@ -5,7 +5,7 @@ pubDate:
 ---
 So here's how it all began. One day, out of nowhere, my phone started ringing, which felt kinda strange as I couldn't remember the last time anyone had actually called me. I rushed to check who it was, and to my surprise, it was one of my cousins reaching out. She told me that she was planning to come with her brother to spend their summer holidays in Delhi, and my first reaction was, "Are you sure that you can handle this heat? Even cleaning butts after a pooping session feels like hell". I wasn't even exaggerating - it was peak Delhi summer, with temperatures hitting 44 degrees for a week to come with no sign of relief. But her reply was even banger than my warning, she said that she'd rather die of heatstroke than of boredom. After listening to that, I was like DAMNN for a sec. By then I'd also finished my Master's exam, so was thrilled by the idea of having some fun time with them.
 
-Now, a little context - these cousins are my maternal uncle's (Mama's) kids, who'd only just turned old enough to vote. So even though we're technically all "Gen Z" but you can still feel the generational gap between us. This was also going to be their first solo trip, yeah without their parents and for comparison, I didn't get to travel alone for leisure until my early twenties, so these two kids were already beating my record. After some careful planning - and a few false promises to their parents for behaving well - they pulled it off, and our week-long trip officially began.
+Now, a little context - these cousins are my maternal uncle's (Mama's) kids, who'd only just turned old enough to vote. So even though we're technically all "Gen Z" but you can still feel the generational gap between us. This was also going to be their first solo trip, yeah without their parents and for comparison, I didn't get to travel alone for leisure until my early twenties, so these two kids were already beating my record. After some careful planning - and a few false promises to their parents for behaving well - they pulled it off and our week-long trip officially began.
 
 
 ![fun inside, bully outside](_assets/4.png)
@@ -62,4 +62,5 @@ Honestly, I loved playing the part of hosting the trip to my cousins as I feel t
 
 I used to be a mischievous kid, always chasing the next prank and new places just for the thrill of it, and I realize that part of me hasn't really changed with age. Though, life has changed a lot and it wasn't used to feel this lonely, but somewhere along the way, that quiet cloud of loneliness crept in and settled. Moments like this trip are the ones that pull me back out of it and reminds me what it feels like to actually feel something. I never really told them the truth, that this trip was just as much a vacation for me as it was for them. By the end of it, I felt lighter - like a fresh leaf after the first monsoon shower.
 
+___
 
