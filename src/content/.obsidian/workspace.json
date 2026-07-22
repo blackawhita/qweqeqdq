@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "451e141946d4bd3e",
+            "id": "51792338482ffb32",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -142,7 +142,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "451e141946d4bd3e",
+  "active": "51792338482ffb32",
   "lastOpenFiles": [
     "_bases/Home.base",
     "posts/My Philosophy behind creating this Digital Gardening.md",
