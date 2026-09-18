@@ -19,4 +19,5 @@ I couldn't understand for a second what had just happened to me, as I was sittin
 
 
 ![](../images/2026-09-18-07-45-21-992.jpg)
+
 ---
