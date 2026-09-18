@@ -1,5 +1,5 @@
 ---
-title: "TIny hands that gave me hope"
+title: TIny hands that gave me hope
 pubDate: 2026-09-18
 ---
 I woke up abruptly early in the morning to a feeling that my heart rate was a bit higher than it's used to be. I felt that there's something bothering me unconsciously and that's why this weird feeling. I tried to sleep back as it was still 2 hrs before than I used to wake up normally but no matter how much ways I tried, I couldn't and after a while I gave up. I felt like going to the park, as to calm me down a bit so I tied my shoe laces and went for it.
