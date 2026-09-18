@@ -2,7 +2,7 @@
 title: TIny hands that gave me hope
 pubDate: 2026-09-18
 ---
-[](![630](../images/2026-09-18-07-45-21-992.jpg)
+[](![a lone flower](../images/2026-09-18-07-45-21-992.jpg)
 
 I woke up abruptly early in the morning to a feel uneasy and felt my heart rate was a bit higher than it's used to be as if there's something bothering me unconsciously and the reason for that weird feeling. I tried to sleep back as it was still 2 hrs before than I normal waking up time but no matter how many ways I tried, I couldn't find myself to rest to sleep and after a while I feel like okay let's gave up and call it a morning. I got a spike urge to going to the park, as to calm me down a bit so I tied up my shoe laces and went for it.
 
