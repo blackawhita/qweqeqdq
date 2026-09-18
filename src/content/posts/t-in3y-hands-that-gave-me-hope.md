@@ -29,8 +29,9 @@ I couldn't understand for a second what had just happened to me, as I was sittin
 
 
 
+
+
 ![persistent to bloom](../images/Sunflower.jpg)
-*** 
 
 
 
