@@ -11,7 +11,7 @@ Life has been so uncanny lately, it's like I am in senses to know what's happeni
 
 When I reached the park, I was walking hastily as if I were rushing to be on time for something unknown which wasn't the case as I took this medium to settle my nerves but by then I realised something was off so i took a conscious decision to take a pit stop. Here the park where I go regularly, is just so good as if the nature were showing off how charming it could be and it definitely managed to enchant me as If I had got attracted to a girl who seemed to possess all the qualities of beauty anyone could ask for. And as if the nature wanted to keep playing with my small heart, it introduced me with cute little ducks and I do not know how long I can keep my hands in pants and not jump to hold them. I sat near the fountain where there were less people as I demanded some privacy for my emotions so to start processing everything was happening to me lately. I usually feel the need of have something in my hands or to be touched whenever I feel sort of anxiously thinking about something just like a child clings to their mother sari for the comfort. As the process to know deepens, I found that there was a weird feeling of wanting something desperately, but I couldn't find a way to do it and more than that, I couldn't know what "it" was to even reach.
 
-![his name is baddie as he protects](../images/baddie.jpeg)
+![his name is baddie](../images/baddie.jpeg)
 
 
 
