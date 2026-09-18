@@ -120,12 +120,33 @@
               "icon": "lucide-list",
               "title": "Outline of Home"
             }
+          },
+          {
+            "id": "2dbec2afc7c84b02",
+            "type": "leaf",
+            "state": {
+              "type": "seo-global-panel",
+              "state": {},
+              "icon": "search-check",
+              "title": "SEO audit: vault"
+            }
+          },
+          {
+            "id": "baa90851124d9081",
+            "type": "leaf",
+            "state": {
+              "type": "seo-current-panel",
+              "state": {},
+              "icon": "search-check",
+              "title": "SEO audit: current note"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {

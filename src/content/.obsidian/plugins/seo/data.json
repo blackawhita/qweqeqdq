@@ -36,25 +36,17 @@
   "duplicateThreshold": 80,
   "cachedGlobalResults": [
     {
-      "file": "_vault-cms-guide.md",
-      "displayName": "Vault CMS Guide",
+      "file": "posts/_Rainy Season and El-Nino.md",
+      "displayName": "Reason of this rainy season to be weird",
       "checks": {
         "titleLength": [
           {
-            "passed": false,
-            "message": "Title too short: 15 characters",
-            "suggestion": "Aim for 30-60 characters",
-            "severity": "warning"
+            "passed": true,
+            "message": "Good title length: 39 characters",
+            "severity": "info"
           }
         ],
-        "metaDescription": [
-          {
-            "passed": false,
-            "message": "Description too short: 62 characters",
-            "suggestion": "Aim for 120-160 characters",
-            "severity": "warning"
-          }
-        ],
+        "metaDescription": [],
         "titleH1Uniqueness": [
           {
             "passed": false,
@@ -72,14 +64,114 @@
         "headingOrder": [
           {
             "passed": true,
-            "message": "Heading structure is correct",
+            "message": "No heading structure issues found",
+            "severity": "info"
+          }
+        ],
+        "contentLength": [
+          {
+            "passed": false,
+            "message": "Content too short: 14 words",
+            "suggestion": "Aim for at least 300 words",
+            "severity": "warning"
+          }
+        ],
+        "duplicateTitles": [],
+        "duplicateDescriptions": [],
+        "duplicateContent": [],
+        "altText": [
+          {
+            "passed": true,
+            "message": "No media elements in this post",
+            "severity": "info"
+          }
+        ],
+        "imageFileNames": [
+          {
+            "passed": true,
+            "message": "All images have good file names",
+            "severity": "info"
+          }
+        ],
+        "nakedLinks": [
+          {
+            "passed": true,
+            "message": "No naked links found",
+            "severity": "info"
+          }
+        ],
+        "brokenLinks": [
+          {
+            "passed": true,
+            "message": "No broken internal links found",
+            "severity": "info"
+          }
+        ],
+        "potentiallyBrokenLinks": [
+          {
+            "passed": true,
+            "message": "No potentially broken links found",
+            "severity": "info"
+          }
+        ],
+        "potentiallyBrokenEmbeds": [],
+        "externalBrokenLinks": [
+          {
+            "passed": true,
+            "message": "No external links found",
+            "severity": "info"
+          }
+        ],
+        "readingLevel": [
+          {
+            "passed": true,
+            "message": "Good reading level: 4.2 (Very easy to read)",
+            "severity": "info"
+          }
+        ]
+      },
+      "overallScore": 83,
+      "issuesCount": 0,
+      "warningsCount": 2,
+      "noticesCount": 0
+    },
+    {
+      "file": "posts/_Origami.md",
+      "displayName": "Does Origami have the power to heal hearts?",
+      "checks": {
+        "titleLength": [
+          {
+            "passed": true,
+            "message": "Good title length: 43 characters",
+            "severity": "info"
+          }
+        ],
+        "metaDescription": [],
+        "titleH1Uniqueness": [
+          {
+            "passed": false,
+            "message": "Meta title and H1 are identical",
+            "suggestion": "Modify one to be unique, or specify a suffix/prefix in plugin settings",
+            "severity": "warning"
+          }
+        ],
+        "keywordInTitle": [],
+        "keywordInDescription": [],
+        "keywordInHeadings": [],
+        "keywordInSlug": [],
+        "slugFormat": [],
+        "keywordDensity": [],
+        "headingOrder": [
+          {
+            "passed": true,
+            "message": "No heading structure issues found",
             "severity": "info"
           }
         ],
         "contentLength": [
           {
             "passed": true,
-            "message": "Good content length: 2436 words",
+            "message": "Good content length: 576 words",
             "severity": "info"
           }
         ],
@@ -125,24 +217,1259 @@
         "externalBrokenLinks": [
           {
             "passed": true,
-            "message": "Found 9 external link(s), all appear to resolve and are working",
+            "message": "No external links found",
             "severity": "info"
           }
         ],
         "readingLevel": [
           {
             "passed": true,
-            "message": "Good reading level: 8.9 (Easy to read)",
+            "message": "Good reading level: 10.8 (Moderately easy to read)",
             "severity": "info"
           }
         ]
       },
-      "overallScore": 73.5,
+      "overallScore": 93,
+      "issuesCount": 0,
+      "warningsCount": 1,
+      "noticesCount": 0
+    },
+    {
+      "file": "posts/t-in3y-hands-that-gave-me-hope.md",
+      "displayName": "TIny hands that gave me hope",
+      "checks": {
+        "titleLength": [
+          {
+            "passed": false,
+            "message": "Title too short: 28 characters",
+            "suggestion": "Aim for 30-60 characters",
+            "severity": "warning"
+          }
+        ],
+        "metaDescription": [],
+        "titleH1Uniqueness": [
+          {
+            "passed": false,
+            "message": "Meta title and H1 are identical",
+            "suggestion": "Modify one to be unique, or specify a suffix/prefix in plugin settings",
+            "severity": "warning"
+          }
+        ],
+        "keywordInTitle": [],
+        "keywordInDescription": [],
+        "keywordInHeadings": [],
+        "keywordInSlug": [],
+        "slugFormat": [],
+        "keywordDensity": [],
+        "headingOrder": [
+          {
+            "passed": true,
+            "message": "No heading structure issues found",
+            "severity": "info"
+          }
+        ],
+        "contentLength": [
+          {
+            "passed": true,
+            "message": "Good content length: 989 words",
+            "severity": "info"
+          }
+        ],
+        "duplicateTitles": [],
+        "duplicateDescriptions": [],
+        "duplicateContent": [],
+        "altText": [
+          {
+            "passed": true,
+            "message": "All media elements have alt text",
+            "severity": "info"
+          }
+        ],
+        "imageFileNames": [
+          {
+            "passed": true,
+            "message": "All images have good file names",
+            "severity": "info"
+          }
+        ],
+        "nakedLinks": [
+          {
+            "passed": true,
+            "message": "No naked links found",
+            "severity": "info"
+          }
+        ],
+        "brokenLinks": [
+          {
+            "passed": true,
+            "message": "No broken internal links found",
+            "severity": "info"
+          }
+        ],
+        "potentiallyBrokenLinks": [
+          {
+            "passed": true,
+            "message": "No potentially broken links found",
+            "severity": "info"
+          }
+        ],
+        "potentiallyBrokenEmbeds": [],
+        "externalBrokenLinks": [
+          {
+            "passed": true,
+            "message": "No external links found",
+            "severity": "info"
+          }
+        ],
+        "readingLevel": [
+          {
+            "passed": false,
+            "message": "Reading level too high: 14.0 (Moderately difficult to read)",
+            "suggestion": "Consider simplifying sentence structure and using shorter words",
+            "severity": "warning"
+          }
+        ]
+      },
+      "overallScore": 75,
       "issuesCount": 0,
       "warningsCount": 3,
       "noticesCount": 0
+    },
+    {
+      "file": "posts/_the-tr-808-story.md",
+      "displayName": "The TR-808 Story",
+      "checks": {
+        "titleLength": [
+          {
+            "passed": false,
+            "message": "Title too short: 16 characters",
+            "suggestion": "Aim for 30-60 characters",
+            "severity": "warning"
+          }
+        ],
+        "metaDescription": [],
+        "titleH1Uniqueness": [
+          {
+            "passed": false,
+            "message": "Meta title and H1 are identical",
+            "suggestion": "Modify one to be unique, or specify a suffix/prefix in plugin settings",
+            "severity": "warning"
+          }
+        ],
+        "keywordInTitle": [],
+        "keywordInDescription": [],
+        "keywordInHeadings": [],
+        "keywordInSlug": [],
+        "slugFormat": [],
+        "keywordDensity": [],
+        "headingOrder": [
+          {
+            "passed": true,
+            "message": "Heading structure is correct",
+            "severity": "info"
+          }
+        ],
+        "contentLength": [
+          {
+            "passed": true,
+            "message": "Good content length: 922 words",
+            "severity": "info"
+          }
+        ],
+        "duplicateTitles": [],
+        "duplicateDescriptions": [],
+        "duplicateContent": [],
+        "altText": [
+          {
+            "passed": false,
+            "message": "Media missing alt text: _assets/Recording%2020260625164754.m4a",
+            "suggestion": "Add descriptive alt text for accessibility",
+            "severity": "error",
+            "position": {
+              "line": 8,
+              "searchText": "![](_assets/Recording%2020260625164754.m4a)",
+              "context": "\n\n![](_assets/Recording%2020260625164754.m4a)\n\n![tr-808](./_assets/tr-808.webp)"
+            }
+          }
+        ],
+        "imageFileNames": [
+          {
+            "passed": false,
+            "message": "Image 1 has spaces in file name: Recording%2020260625164754.m4a",
+            "suggestion": "Use kebab-case or underscores instead of spaces",
+            "severity": "warning",
+            "position": {
+              "line": 8,
+              "searchText": "![](_assets/Recording%2020260625164754.m4a)",
+              "context": "\n\n![](_assets/Recording%2020260625164754.m4a)\n\n![tr-808](./_assets/tr-808.webp)"
+            }
+          }
+        ],
+        "nakedLinks": [
+          {
+            "passed": true,
+            "message": "No naked links found",
+            "severity": "info"
+          }
+        ],
+        "brokenLinks": [
+          {
+            "passed": true,
+            "message": "No broken internal links found",
+            "severity": "info"
+          }
+        ],
+        "potentiallyBrokenLinks": [
+          {
+            "passed": true,
+            "message": "No potentially broken links found",
+            "severity": "info"
+          }
+        ],
+        "potentiallyBrokenEmbeds": [],
+        "externalBrokenLinks": [
+          {
+            "passed": true,
+            "message": "No external links found",
+            "severity": "info"
+          }
+        ],
+        "readingLevel": [
+          {
+            "passed": false,
+            "message": "Reading level too high: 12.1 (Moderately difficult to read)",
+            "suggestion": "Consider simplifying sentence structure and using shorter words",
+            "severity": "warning"
+          }
+        ]
+      },
+      "overallScore": 65,
+      "issuesCount": 1,
+      "warningsCount": 4,
+      "noticesCount": 0
+    },
+    {
+      "file": "posts/_theme-guide.md",
+      "displayName": "Theme Guide",
+      "checks": {
+        "titleLength": [
+          {
+            "passed": false,
+            "message": "Title too short: 11 characters",
+            "suggestion": "Aim for 30-60 characters",
+            "severity": "warning"
+          }
+        ],
+        "metaDescription": [],
+        "titleH1Uniqueness": [
+          {
+            "passed": false,
+            "message": "Meta title and H1 are identical",
+            "suggestion": "Modify one to be unique, or specify a suffix/prefix in plugin settings",
+            "severity": "warning"
+          }
+        ],
+        "keywordInTitle": [],
+        "keywordInDescription": [],
+        "keywordInHeadings": [],
+        "keywordInSlug": [],
+        "slugFormat": [],
+        "keywordDensity": [],
+        "headingOrder": [
+          {
+            "passed": true,
+            "message": "Heading structure is correct",
+            "severity": "info"
+          }
+        ],
+        "contentLength": [
+          {
+            "passed": false,
+            "message": "Content too short: 139 words",
+            "suggestion": "Aim for at least 300 words",
+            "severity": "warning"
+          }
+        ],
+        "duplicateTitles": [],
+        "duplicateDescriptions": [],
+        "duplicateContent": [],
+        "altText": [
+          {
+            "passed": true,
+            "message": "All media elements have alt text",
+            "severity": "info"
+          }
+        ],
+        "imageFileNames": [
+          {
+            "passed": true,
+            "message": "All images have good file names",
+            "severity": "info"
+          }
+        ],
+        "nakedLinks": [
+          {
+            "passed": true,
+            "message": "No naked links found",
+            "severity": "info"
+          }
+        ],
+        "brokenLinks": [
+          {
+            "passed": true,
+            "message": "No broken internal links found",
+            "severity": "info"
+          }
+        ],
+        "potentiallyBrokenLinks": [
+          {
+            "passed": true,
+            "message": "No potentially broken links found",
+            "severity": "info"
+          }
+        ],
+        "potentiallyBrokenEmbeds": [],
+        "externalBrokenLinks": [
+          {
+            "passed": true,
+            "message": "External link: https://astro.build",
+            "suggestion": "To find if any of these are broken, use the 'Check external links for 404s' button to trigger it.",
+            "severity": "notice",
+            "position": {
+              "line": 6,
+              "searchText": "https://astro.build",
+              "context": "---\nqwqewqeqwewqeqweq\nChiri is a minimal blog theme built with [Astro](https://astro.build), offering customization options while preserving its clean aesthetic.\n\n---"
+            }
+          },
+          {
+            "passed": true,
+            "message": "External link: https://docs.astro.build/en/guides/syntax-highlighting/",
+            "suggestion": "To find if any of these are broken, use the 'Check external links for 404s' button to trigger it.",
+            "severity": "notice",
+            "position": {
+              "line": 80,
+              "searchText": "https://docs.astro.build/en/guides/syntax-highlighting/",
+              "context": "You can configure the theme via `shikiConfig` in `astro.config.ts`.\n\nMore details: [Syntax Highlighting | Astro Docs](https://docs.astro.build/en/guides/syntax-highlighting/)\n\n```ts"
+            }
+          }
+        ],
+        "readingLevel": [
+          {
+            "passed": true,
+            "message": "Good reading level: 7.2 (Easy to read)",
+            "severity": "info"
+          }
+        ]
+      },
+      "overallScore": 75,
+      "issuesCount": 0,
+      "warningsCount": 3,
+      "noticesCount": 2
+    },
+    {
+      "file": "posts/_markdown-style-guide.md",
+      "displayName": "Markdown Style Guide",
+      "checks": {
+        "titleLength": [
+          {
+            "passed": false,
+            "message": "Title too short: 20 characters",
+            "suggestion": "Aim for 30-60 characters",
+            "severity": "warning"
+          }
+        ],
+        "metaDescription": [],
+        "titleH1Uniqueness": [
+          {
+            "passed": false,
+            "message": "Meta title and H1 are identical",
+            "suggestion": "Modify one to be unique, or specify a suffix/prefix in plugin settings",
+            "severity": "warning"
+          }
+        ],
+        "keywordInTitle": [],
+        "keywordInDescription": [],
+        "keywordInHeadings": [],
+        "keywordInSlug": [],
+        "slugFormat": [],
+        "keywordDensity": [],
+        "headingOrder": [
+          {
+            "passed": true,
+            "message": "Heading structure is correct",
+            "severity": "info"
+          }
+        ],
+        "contentLength": [
+          {
+            "passed": false,
+            "message": "Content too short: 224 words",
+            "suggestion": "Aim for at least 300 words",
+            "severity": "warning"
+          }
+        ],
+        "duplicateTitles": [],
+        "duplicateDescriptions": [],
+        "duplicateContent": [],
+        "altText": [
+          {
+            "passed": true,
+            "message": "No media elements in this post",
+            "severity": "info"
+          }
+        ],
+        "imageFileNames": [
+          {
+            "passed": true,
+            "message": "All images have good file names",
+            "severity": "info"
+          }
+        ],
+        "nakedLinks": [
+          {
+            "passed": true,
+            "message": "No naked links found",
+            "severity": "info"
+          }
+        ],
+        "brokenLinks": [
+          {
+            "passed": true,
+            "message": "No broken internal links found",
+            "severity": "info"
+          }
+        ],
+        "potentiallyBrokenLinks": [
+          {
+            "passed": true,
+            "message": "No potentially broken links found",
+            "severity": "info"
+          }
+        ],
+        "potentiallyBrokenEmbeds": [],
+        "externalBrokenLinks": [
+          {
+            "passed": true,
+            "message": "External link: https://www.youtube.com/watch?v=PAAkCSZUG1c",
+            "suggestion": "To find if any of these are broken, use the 'Check external links for 404s' button to trigger it.",
+            "severity": "notice",
+            "position": {
+              "line": 21,
+              "searchText": "https://www.youtube.com/watch?v=PAAkCSZUG1c",
+              "context": "> — <cite>Rob Pike[^1]</cite>\n\n[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.\n\n### Ordered List"
+            }
+          }
+        ],
+        "readingLevel": [
+          {
+            "passed": true,
+            "message": "Good reading level: 4.4 (Very easy to read)",
+            "severity": "info"
+          }
+        ]
+      },
+      "overallScore": 75,
+      "issuesCount": 0,
+      "warningsCount": 3,
+      "noticesCount": 1
+    },
+    {
+      "file": "posts/_embedded-content.md",
+      "displayName": "Embedded Content",
+      "checks": {
+        "titleLength": [
+          {
+            "passed": false,
+            "message": "Title too short: 16 characters",
+            "suggestion": "Aim for 30-60 characters",
+            "severity": "warning"
+          }
+        ],
+        "metaDescription": [],
+        "titleH1Uniqueness": [
+          {
+            "passed": false,
+            "message": "Meta title and H1 are identical",
+            "suggestion": "Modify one to be unique, or specify a suffix/prefix in plugin settings",
+            "severity": "warning"
+          }
+        ],
+        "keywordInTitle": [],
+        "keywordInDescription": [],
+        "keywordInHeadings": [],
+        "keywordInSlug": [],
+        "slugFormat": [],
+        "keywordDensity": [],
+        "headingOrder": [
+          {
+            "passed": true,
+            "message": "Heading structure is correct",
+            "severity": "info"
+          }
+        ],
+        "contentLength": [
+          {
+            "passed": false,
+            "message": "Content too short: 35 words",
+            "suggestion": "Aim for at least 300 words",
+            "severity": "warning"
+          }
+        ],
+        "duplicateTitles": [],
+        "duplicateDescriptions": [],
+        "duplicateContent": [],
+        "altText": [
+          {
+            "passed": true,
+            "message": "No media elements in this post",
+            "severity": "info"
+          }
+        ],
+        "imageFileNames": [
+          {
+            "passed": true,
+            "message": "All images have good file names",
+            "severity": "info"
+          }
+        ],
+        "nakedLinks": [
+          {
+            "passed": true,
+            "message": "No naked links found",
+            "severity": "info"
+          }
+        ],
+        "brokenLinks": [
+          {
+            "passed": true,
+            "message": "No broken internal links found",
+            "severity": "info"
+          }
+        ],
+        "potentiallyBrokenLinks": [
+          {
+            "passed": true,
+            "message": "No potentially broken links found",
+            "severity": "info"
+          }
+        ],
+        "potentiallyBrokenEmbeds": [],
+        "externalBrokenLinks": [
+          {
+            "passed": true,
+            "message": "No external links found",
+            "severity": "info"
+          }
+        ],
+        "readingLevel": [
+          {
+            "passed": true,
+            "message": "Good reading level: 8.5 (Easy to read)",
+            "severity": "info"
+          }
+        ]
+      },
+      "overallScore": 75,
+      "issuesCount": 0,
+      "warningsCount": 3,
+      "noticesCount": 0
+    },
+    {
+      "file": "posts/_Tight Grip.md",
+      "displayName": "Loosing the tight grip",
+      "checks": {
+        "titleLength": [
+          {
+            "passed": false,
+            "message": "Title too short: 22 characters",
+            "suggestion": "Aim for 30-60 characters",
+            "severity": "warning"
+          }
+        ],
+        "metaDescription": [],
+        "titleH1Uniqueness": [
+          {
+            "passed": false,
+            "message": "Meta title and H1 are identical",
+            "suggestion": "Modify one to be unique, or specify a suffix/prefix in plugin settings",
+            "severity": "warning"
+          }
+        ],
+        "keywordInTitle": [],
+        "keywordInDescription": [],
+        "keywordInHeadings": [],
+        "keywordInSlug": [],
+        "slugFormat": [],
+        "keywordDensity": [],
+        "headingOrder": [
+          {
+            "passed": true,
+            "message": "Heading structure is correct",
+            "severity": "info"
+          }
+        ],
+        "contentLength": [
+          {
+            "passed": false,
+            "message": "Content too short: 276 words",
+            "suggestion": "Aim for at least 300 words",
+            "severity": "warning"
+          }
+        ],
+        "duplicateTitles": [],
+        "duplicateDescriptions": [],
+        "duplicateContent": [],
+        "altText": [
+          {
+            "passed": true,
+            "message": "No media elements in this post",
+            "severity": "info"
+          }
+        ],
+        "imageFileNames": [
+          {
+            "passed": true,
+            "message": "All images have good file names",
+            "severity": "info"
+          }
+        ],
+        "nakedLinks": [
+          {
+            "passed": true,
+            "message": "No naked links found",
+            "severity": "info"
+          }
+        ],
+        "brokenLinks": [
+          {
+            "passed": true,
+            "message": "No broken internal links found",
+            "severity": "info"
+          }
+        ],
+        "potentiallyBrokenLinks": [
+          {
+            "passed": true,
+            "message": "No potentially broken links found",
+            "severity": "info"
+          }
+        ],
+        "potentiallyBrokenEmbeds": [],
+        "externalBrokenLinks": [
+          {
+            "passed": true,
+            "message": "No external links found",
+            "severity": "info"
+          }
+        ],
+        "readingLevel": [
+          {
+            "passed": true,
+            "message": "Good reading level: 9.5 (Moderately easy to read)",
+            "severity": "info"
+          }
+        ]
+      },
+      "overallScore": 75,
+      "issuesCount": 0,
+      "warningsCount": 3,
+      "noticesCount": 0
+    },
+    {
+      "file": "posts/_Cooking.md",
+      "displayName": "What I learned from Cooking",
+      "checks": {
+        "titleLength": [
+          {
+            "passed": false,
+            "message": "Title too short: 27 characters",
+            "suggestion": "Aim for 30-60 characters",
+            "severity": "warning"
+          }
+        ],
+        "metaDescription": [],
+        "titleH1Uniqueness": [
+          {
+            "passed": false,
+            "message": "Meta title and H1 are identical",
+            "suggestion": "Modify one to be unique, or specify a suffix/prefix in plugin settings",
+            "severity": "warning"
+          }
+        ],
+        "keywordInTitle": [],
+        "keywordInDescription": [],
+        "keywordInHeadings": [],
+        "keywordInSlug": [],
+        "slugFormat": [],
+        "keywordDensity": [],
+        "headingOrder": [
+          {
+            "passed": true,
+            "message": "No heading structure issues found",
+            "severity": "info"
+          }
+        ],
+        "contentLength": [
+          {
+            "passed": false,
+            "message": "Content too short: 72 words",
+            "suggestion": "Aim for at least 300 words",
+            "severity": "warning"
+          }
+        ],
+        "duplicateTitles": [],
+        "duplicateDescriptions": [],
+        "duplicateContent": [],
+        "altText": [
+          {
+            "passed": true,
+            "message": "No media elements in this post",
+            "severity": "info"
+          }
+        ],
+        "imageFileNames": [
+          {
+            "passed": true,
+            "message": "All images have good file names",
+            "severity": "info"
+          }
+        ],
+        "nakedLinks": [
+          {
+            "passed": true,
+            "message": "No naked links found",
+            "severity": "info"
+          }
+        ],
+        "brokenLinks": [
+          {
+            "passed": true,
+            "message": "No broken internal links found",
+            "severity": "info"
+          }
+        ],
+        "potentiallyBrokenLinks": [
+          {
+            "passed": true,
+            "message": "No potentially broken links found",
+            "severity": "info"
+          }
+        ],
+        "potentiallyBrokenEmbeds": [],
+        "externalBrokenLinks": [
+          {
+            "passed": true,
+            "message": "No external links found",
+            "severity": "info"
+          }
+        ],
+        "readingLevel": [
+          {
+            "passed": false,
+            "message": "Reading level too high: 14.5 (Moderately difficult to read)",
+            "suggestion": "Consider simplifying sentence structure and using shorter words",
+            "severity": "warning"
+          }
+        ]
+      },
+      "overallScore": 65,
+      "issuesCount": 0,
+      "warningsCount": 4,
+      "noticesCount": 0
+    },
+    {
+      "file": "posts/_KaTeX-example.md",
+      "displayName": "KaTeX Examples",
+      "checks": {
+        "titleLength": [
+          {
+            "passed": false,
+            "message": "Title too short: 14 characters",
+            "suggestion": "Aim for 30-60 characters",
+            "severity": "warning"
+          }
+        ],
+        "metaDescription": [],
+        "titleH1Uniqueness": [
+          {
+            "passed": false,
+            "message": "Meta title and H1 are identical",
+            "suggestion": "Modify one to be unique, or specify a suffix/prefix in plugin settings",
+            "severity": "warning"
+          }
+        ],
+        "keywordInTitle": [],
+        "keywordInDescription": [],
+        "keywordInHeadings": [],
+        "keywordInSlug": [],
+        "slugFormat": [],
+        "keywordDensity": [],
+        "headingOrder": [
+          {
+            "passed": true,
+            "message": "Heading structure is correct",
+            "severity": "info"
+          }
+        ],
+        "contentLength": [
+          {
+            "passed": false,
+            "message": "Content too short: 72 words",
+            "suggestion": "Aim for at least 300 words",
+            "severity": "warning"
+          }
+        ],
+        "duplicateTitles": [],
+        "duplicateDescriptions": [],
+        "duplicateContent": [],
+        "altText": [
+          {
+            "passed": true,
+            "message": "No media elements in this post",
+            "severity": "info"
+          }
+        ],
+        "imageFileNames": [
+          {
+            "passed": true,
+            "message": "All images have good file names",
+            "severity": "info"
+          }
+        ],
+        "nakedLinks": [
+          {
+            "passed": true,
+            "message": "No naked links found",
+            "severity": "info"
+          }
+        ],
+        "brokenLinks": [
+          {
+            "passed": true,
+            "message": "No broken internal links found",
+            "severity": "info"
+          }
+        ],
+        "potentiallyBrokenLinks": [
+          {
+            "passed": true,
+            "message": "No potentially broken links found",
+            "severity": "info"
+          }
+        ],
+        "potentiallyBrokenEmbeds": [],
+        "externalBrokenLinks": [
+          {
+            "passed": true,
+            "message": "External link: https://katex.org/docs/supported.html",
+            "suggestion": "To find if any of these are broken, use the 'Check external links for 404s' button to trigger it.",
+            "severity": "notice",
+            "position": {
+              "line": 49,
+              "searchText": "https://katex.org/docs/supported.html",
+              "context": "## Ref\n\n- [KaTeX Documentation](https://katex.org/docs/supported.html)\n"
+            }
+          }
+        ],
+        "readingLevel": [
+          {
+            "passed": true,
+            "message": "Good reading level: 9.8 (Moderately easy to read)",
+            "severity": "info"
+          }
+        ]
+      },
+      "overallScore": 75,
+      "issuesCount": 0,
+      "warningsCount": 3,
+      "noticesCount": 1
+    },
+    {
+      "file": "posts/My Philosophy behind creating this Digital Gardening.md",
+      "displayName": "Setting up my Digital Garden",
+      "checks": {
+        "titleLength": [
+          {
+            "passed": false,
+            "message": "Title too short: 28 characters",
+            "suggestion": "Aim for 30-60 characters",
+            "severity": "warning"
+          }
+        ],
+        "metaDescription": [],
+        "titleH1Uniqueness": [
+          {
+            "passed": false,
+            "message": "Meta title and H1 are identical",
+            "suggestion": "Modify one to be unique, or specify a suffix/prefix in plugin settings",
+            "severity": "warning"
+          }
+        ],
+        "keywordInTitle": [],
+        "keywordInDescription": [],
+        "keywordInHeadings": [],
+        "keywordInSlug": [],
+        "slugFormat": [],
+        "keywordDensity": [],
+        "headingOrder": [
+          {
+            "passed": true,
+            "message": "Heading structure is correct",
+            "severity": "info"
+          }
+        ],
+        "contentLength": [
+          {
+            "passed": true,
+            "message": "Good content length: 1691 words",
+            "severity": "info"
+          }
+        ],
+        "duplicateTitles": [],
+        "duplicateDescriptions": [],
+        "duplicateContent": [],
+        "altText": [
+          {
+            "passed": false,
+            "message": "Media missing alt text: ../images/garden.jpg",
+            "suggestion": "Add descriptive alt text for accessibility",
+            "severity": "error",
+            "position": {
+              "line": 6,
+              "searchText": "![](../images/garden.jpg)",
+              "context": "  - 2026-06-12\n---\n![](../images/garden.jpg)\n\nI am quite new to this idea of *Digital Gardening*, as I was searching for a medium that can hold my thoughts as well as to give me that creative freedom which feels exciting to pursue. I do not have a hate relation with the mainstream social platforms like Instagram and Youtube, in fact I believe they are extremely powerful in terms of resource and reach but putting up my thoughts over there taught me something new that I do not enjoy unnecessary loudness, nor do I like to fit in a way to be more relatable. I started valuing my core personality which yearns for building in silence, in private, booming feels natural to me and hence this garden came into existence."
+            }
+          }
+        ],
+        "imageFileNames": [
+          {
+            "passed": true,
+            "message": "All images have good file names",
+            "severity": "info"
+          }
+        ],
+        "nakedLinks": [
+          {
+            "passed": true,
+            "message": "No naked links found",
+            "severity": "info"
+          }
+        ],
+        "brokenLinks": [
+          {
+            "passed": true,
+            "message": "No broken internal links found",
+            "severity": "info"
+          }
+        ],
+        "potentiallyBrokenLinks": [
+          {
+            "passed": true,
+            "message": "No potentially broken links found",
+            "severity": "info"
+          }
+        ],
+        "potentiallyBrokenEmbeds": [],
+        "externalBrokenLinks": [
+          {
+            "passed": true,
+            "message": "External link: https://astro.build",
+            "suggestion": "To find if any of these are broken, use the 'Check external links for 404s' button to trigger it.",
+            "severity": "notice",
+            "position": {
+              "line": 13,
+              "searchText": "https://astro.build",
+              "context": "# Keeping the base ready\n\nI have been a writing baby since long and every major twist and turn in my life has been jotted down somewhere, so to start a blog website required to learn few additional skills on top of that. I firstly hit my head to learn HTML and CSS, these two are core technologies used to build a web page. As I remember being taught in class X that I chose not to take it seriously back then, which resulted to do it again from the beginning. It took me nearly a week to understand all of that, and then I started applying few terminal commands on mac to run it locally.[^1]For the framework, [**Astro**](https://astro.build) felt like the right choice and among its themes, I felt drawn to [**Chiri**](https://astro.build/themes/details/chiri/)[^2]by its simplicity and cuteness. After then, all I needed was to sync it with my [**Obsidian Vault**](https://obsidian.md/) which generates my written thoughts in .md file . Once everything was set tightly, purchasing a domain to publish was the final step and [**Hostinger**](https://www.hostinger.com) felt cheap and secured. I threw up few of my writings on the website and liked the way how they looked. To keep the flow of publishing frictionless, I set up [**GitHub**](https://github.com/) account and linked my repository with [**Vercel**](https://vercel.com), that allowed me to publish on the internet with a single **Ctrl + Shift + S** keyboard shortcut.\n\n![my workflow](../images/sync.jpg)"
+            }
+          },
+          {
+            "passed": true,
+            "message": "External link: https://astro.build/themes/details/chiri/",
+            "suggestion": "To find if any of these are broken, use the 'Check external links for 404s' button to trigger it.",
+            "severity": "notice",
+            "position": {
+              "line": 13,
+              "searchText": "https://astro.build/themes/details/chiri/",
+              "context": "# Keeping the base ready\n\nI have been a writing baby since long and every major twist and turn in my life has been jotted down somewhere, so to start a blog website required to learn few additional skills on top of that. I firstly hit my head to learn HTML and CSS, these two are core technologies used to build a web page. As I remember being taught in class X that I chose not to take it seriously back then, which resulted to do it again from the beginning. It took me nearly a week to understand all of that, and then I started applying few terminal commands on mac to run it locally.[^1]For the framework, [**Astro**](https://astro.build) felt like the right choice and among its themes, I felt drawn to [**Chiri**](https://astro.build/themes/details/chiri/)[^2]by its simplicity and cuteness. After then, all I needed was to sync it with my [**Obsidian Vault**](https://obsidian.md/) which generates my written thoughts in .md file . Once everything was set tightly, purchasing a domain to publish was the final step and [**Hostinger**](https://www.hostinger.com) felt cheap and secured. I threw up few of my writings on the website and liked the way how they looked. To keep the flow of publishing frictionless, I set up [**GitHub**](https://github.com/) account and linked my repository with [**Vercel**](https://vercel.com), that allowed me to publish on the internet with a single **Ctrl + Shift + S** keyboard shortcut.\n\n![my workflow](../images/sync.jpg)"
+            }
+          },
+          {
+            "passed": true,
+            "message": "External link: https://obsidian.md/",
+            "suggestion": "To find if any of these are broken, use the 'Check external links for 404s' button to trigger it.",
+            "severity": "notice",
+            "position": {
+              "line": 13,
+              "searchText": "https://obsidian.md/",
+              "context": "# Keeping the base ready\n\nI have been a writing baby since long and every major twist and turn in my life has been jotted down somewhere, so to start a blog website required to learn few additional skills on top of that. I firstly hit my head to learn HTML and CSS, these two are core technologies used to build a web page. As I remember being taught in class X that I chose not to take it seriously back then, which resulted to do it again from the beginning. It took me nearly a week to understand all of that, and then I started applying few terminal commands on mac to run it locally.[^1]For the framework, [**Astro**](https://astro.build) felt like the right choice and among its themes, I felt drawn to [**Chiri**](https://astro.build/themes/details/chiri/)[^2]by its simplicity and cuteness. After then, all I needed was to sync it with my [**Obsidian Vault**](https://obsidian.md/) which generates my written thoughts in .md file . Once everything was set tightly, purchasing a domain to publish was the final step and [**Hostinger**](https://www.hostinger.com) felt cheap and secured. I threw up few of my writings on the website and liked the way how they looked. To keep the flow of publishing frictionless, I set up [**GitHub**](https://github.com/) account and linked my repository with [**Vercel**](https://vercel.com), that allowed me to publish on the internet with a single **Ctrl + Shift + S** keyboard shortcut.\n\n![my workflow](../images/sync.jpg)"
+            }
+          },
+          {
+            "passed": true,
+            "message": "External link: https://www.hostinger.com",
+            "suggestion": "To find if any of these are broken, use the 'Check external links for 404s' button to trigger it.",
+            "severity": "notice",
+            "position": {
+              "line": 13,
+              "searchText": "https://www.hostinger.com",
+              "context": "# Keeping the base ready\n\nI have been a writing baby since long and every major twist and turn in my life has been jotted down somewhere, so to start a blog website required to learn few additional skills on top of that. I firstly hit my head to learn HTML and CSS, these two are core technologies used to build a web page. As I remember being taught in class X that I chose not to take it seriously back then, which resulted to do it again from the beginning. It took me nearly a week to understand all of that, and then I started applying few terminal commands on mac to run it locally.[^1]For the framework, [**Astro**](https://astro.build) felt like the right choice and among its themes, I felt drawn to [**Chiri**](https://astro.build/themes/details/chiri/)[^2]by its simplicity and cuteness. After then, all I needed was to sync it with my [**Obsidian Vault**](https://obsidian.md/) which generates my written thoughts in .md file . Once everything was set tightly, purchasing a domain to publish was the final step and [**Hostinger**](https://www.hostinger.com) felt cheap and secured. I threw up few of my writings on the website and liked the way how they looked. To keep the flow of publishing frictionless, I set up [**GitHub**](https://github.com/) account and linked my repository with [**Vercel**](https://vercel.com), that allowed me to publish on the internet with a single **Ctrl + Shift + S** keyboard shortcut.\n\n![my workflow](../images/sync.jpg)"
+            }
+          },
+          {
+            "passed": true,
+            "message": "External link: https://github.com/",
+            "suggestion": "To find if any of these are broken, use the 'Check external links for 404s' button to trigger it.",
+            "severity": "notice",
+            "position": {
+              "line": 13,
+              "searchText": "https://github.com/",
+              "context": "# Keeping the base ready\n\nI have been a writing baby since long and every major twist and turn in my life has been jotted down somewhere, so to start a blog website required to learn few additional skills on top of that. I firstly hit my head to learn HTML and CSS, these two are core technologies used to build a web page. As I remember being taught in class X that I chose not to take it seriously back then, which resulted to do it again from the beginning. It took me nearly a week to understand all of that, and then I started applying few terminal commands on mac to run it locally.[^1]For the framework, [**Astro**](https://astro.build) felt like the right choice and among its themes, I felt drawn to [**Chiri**](https://astro.build/themes/details/chiri/)[^2]by its simplicity and cuteness. After then, all I needed was to sync it with my [**Obsidian Vault**](https://obsidian.md/) which generates my written thoughts in .md file . Once everything was set tightly, purchasing a domain to publish was the final step and [**Hostinger**](https://www.hostinger.com) felt cheap and secured. I threw up few of my writings on the website and liked the way how they looked. To keep the flow of publishing frictionless, I set up [**GitHub**](https://github.com/) account and linked my repository with [**Vercel**](https://vercel.com), that allowed me to publish on the internet with a single **Ctrl + Shift + S** keyboard shortcut.\n\n![my workflow](../images/sync.jpg)"
+            }
+          },
+          {
+            "passed": true,
+            "message": "External link: https://vercel.com",
+            "suggestion": "To find if any of these are broken, use the 'Check external links for 404s' button to trigger it.",
+            "severity": "notice",
+            "position": {
+              "line": 13,
+              "searchText": "https://vercel.com",
+              "context": "# Keeping the base ready\n\nI have been a writing baby since long and every major twist and turn in my life has been jotted down somewhere, so to start a blog website required to learn few additional skills on top of that. I firstly hit my head to learn HTML and CSS, these two are core technologies used to build a web page. As I remember being taught in class X that I chose not to take it seriously back then, which resulted to do it again from the beginning. It took me nearly a week to understand all of that, and then I started applying few terminal commands on mac to run it locally.[^1]For the framework, [**Astro**](https://astro.build) felt like the right choice and among its themes, I felt drawn to [**Chiri**](https://astro.build/themes/details/chiri/)[^2]by its simplicity and cuteness. After then, all I needed was to sync it with my [**Obsidian Vault**](https://obsidian.md/) which generates my written thoughts in .md file . Once everything was set tightly, purchasing a domain to publish was the final step and [**Hostinger**](https://www.hostinger.com) felt cheap and secured. I threw up few of my writings on the website and liked the way how they looked. To keep the flow of publishing frictionless, I set up [**GitHub**](https://github.com/) account and linked my repository with [**Vercel**](https://vercel.com), that allowed me to publish on the internet with a single **Ctrl + Shift + S** keyboard shortcut.\n\n![my workflow](../images/sync.jpg)"
+            }
+          }
+        ],
+        "readingLevel": [
+          {
+            "passed": true,
+            "message": "Good reading level: 9.4 (Moderately easy to read)",
+            "severity": "info"
+          }
+        ]
+      },
+      "overallScore": 75,
+      "issuesCount": 1,
+      "warningsCount": 2,
+      "noticesCount": 6
+    },
+    {
+      "file": "posts/Cousin's Delhi Trip.md",
+      "displayName": "Hosting Delhi trip for my cousins",
+      "checks": {
+        "titleLength": [
+          {
+            "passed": true,
+            "message": "Good title length: 33 characters",
+            "severity": "info"
+          }
+        ],
+        "metaDescription": [],
+        "titleH1Uniqueness": [
+          {
+            "passed": false,
+            "message": "Meta title and H1 are identical",
+            "suggestion": "Modify one to be unique, or specify a suffix/prefix in plugin settings",
+            "severity": "warning"
+          }
+        ],
+        "keywordInTitle": [],
+        "keywordInDescription": [],
+        "keywordInHeadings": [],
+        "keywordInSlug": [],
+        "slugFormat": [],
+        "keywordDensity": [],
+        "headingOrder": [
+          {
+            "passed": true,
+            "message": "Heading structure is correct",
+            "severity": "info"
+          }
+        ],
+        "contentLength": [
+          {
+            "passed": true,
+            "message": "Good content length: 2006 words",
+            "severity": "info"
+          }
+        ],
+        "duplicateTitles": [],
+        "duplicateDescriptions": [],
+        "duplicateContent": [],
+        "altText": [
+          {
+            "passed": true,
+            "message": "All media elements have alt text",
+            "severity": "info"
+          }
+        ],
+        "imageFileNames": [
+          {
+            "passed": true,
+            "message": "All images have good file names",
+            "severity": "info"
+          }
+        ],
+        "nakedLinks": [
+          {
+            "passed": true,
+            "message": "No naked links found",
+            "severity": "info"
+          }
+        ],
+        "brokenLinks": [
+          {
+            "passed": true,
+            "message": "No broken internal links found",
+            "severity": "info"
+          }
+        ],
+        "potentiallyBrokenLinks": [
+          {
+            "passed": true,
+            "message": "No potentially broken links found",
+            "severity": "info"
+          }
+        ],
+        "potentiallyBrokenEmbeds": [],
+        "externalBrokenLinks": [
+          {
+            "passed": true,
+            "message": "No external links found",
+            "severity": "info"
+          }
+        ],
+        "readingLevel": [
+          {
+            "passed": true,
+            "message": "Good reading level: 10.0 (Moderately easy to read)",
+            "severity": "info"
+          }
+        ]
+      },
+      "overallScore": 93,
+      "issuesCount": 0,
+      "warningsCount": 1,
+      "noticesCount": 0
+    },
+    {
+      "file": "posts/_using-mdx.mdx",
+      "displayName": "Using MDX",
+      "checks": {
+        "titleLength": [
+          {
+            "passed": false,
+            "message": "Title too short: 11 characters",
+            "suggestion": "Aim for 30-60 characters",
+            "severity": "warning"
+          }
+        ],
+        "metaDescription": [],
+        "titleH1Uniqueness": [
+          {
+            "passed": false,
+            "message": "Meta title and H1 are identical",
+            "suggestion": "Modify one to be unique, or specify a suffix/prefix in plugin settings",
+            "severity": "warning"
+          }
+        ],
+        "keywordInTitle": [],
+        "keywordInDescription": [],
+        "keywordInHeadings": [],
+        "keywordInSlug": [],
+        "slugFormat": [],
+        "keywordDensity": [],
+        "headingOrder": [
+          {
+            "passed": true,
+            "message": "Heading structure is correct",
+            "severity": "info"
+          }
+        ],
+        "contentLength": [
+          {
+            "passed": false,
+            "message": "Content too short: 55 words",
+            "suggestion": "Aim for at least 300 words",
+            "severity": "warning"
+          }
+        ],
+        "duplicateTitles": [],
+        "duplicateDescriptions": [],
+        "duplicateContent": [],
+        "altText": [
+          {
+            "passed": true,
+            "message": "No media elements in this post",
+            "severity": "info"
+          }
+        ],
+        "imageFileNames": [
+          {
+            "passed": true,
+            "message": "All images have good file names",
+            "severity": "info"
+          }
+        ],
+        "nakedLinks": [
+          {
+            "passed": true,
+            "message": "No naked links found",
+            "severity": "info"
+          }
+        ],
+        "brokenLinks": [
+          {
+            "passed": true,
+            "message": "No broken internal links found",
+            "severity": "info"
+          }
+        ],
+        "potentiallyBrokenLinks": [
+          {
+            "passed": true,
+            "message": "No potentially broken links found",
+            "severity": "info"
+          }
+        ],
+        "potentiallyBrokenEmbeds": [],
+        "externalBrokenLinks": [
+          {
+            "passed": true,
+            "message": "External link: https://mdxjs.com/docs/what-is-mdx",
+            "suggestion": "To find if any of these are broken, use the 'Check external links for 404s' button to trigger it.",
+            "severity": "notice",
+            "position": {
+              "line": 30,
+              "searchText": "https://mdxjs.com/docs/what-is-mdx",
+              "context": "## Ref\n\n- [MDX Syntax Documentation](https://mdxjs.com/docs/what-is-mdx)\n- [Astro Usage Documentation](https://docs.astro.build/en/guides/markdown-content/#markdown-and-mdx-pages)\n"
+            }
+          },
+          {
+            "passed": true,
+            "message": "External link: https://docs.astro.build/en/guides/markdown-content/#markdown-and-mdx-pages",
+            "suggestion": "To find if any of these are broken, use the 'Check external links for 404s' button to trigger it.",
+            "severity": "notice",
+            "position": {
+              "line": 31,
+              "searchText": "https://docs.astro.build/en/guides/markdown-content/#markdown-and-mdx-pages",
+              "context": "\n- [MDX Syntax Documentation](https://mdxjs.com/docs/what-is-mdx)\n- [Astro Usage Documentation](https://docs.astro.build/en/guides/markdown-content/#markdown-and-mdx-pages)\n"
+            }
+          }
+        ],
+        "readingLevel": [
+          {
+            "passed": false,
+            "message": "Reading level too high: 16.6 (Difficult to read)",
+            "suggestion": "Consider simplifying sentence structure and using shorter words",
+            "severity": "warning"
+          }
+        ]
+      },
+      "overallScore": 65,
+      "issuesCount": 0,
+      "warningsCount": 4,
+      "noticesCount": 2
     }
   ],
-  "lastScanTimestamp": 1767334975072,
+  "lastScanTimestamp": 1789713399492,
   "showNotices": true
 }
