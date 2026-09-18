@@ -14,7 +14,7 @@ When I reached the park, I was walking hastily as if I were rushing to be on tim
 
 
 
-![his name is baddie](/images/baddie.jpeg)
+![meet baddie, he protects](/images/baddie.jpeg)
 
 
 
@@ -32,6 +32,9 @@ I couldn't understand for a second what had just happened to me, as I was sittin
 
 
 ![persistent to bloom](../images/Sunflower.jpg)
+
+
+
 
 
 
