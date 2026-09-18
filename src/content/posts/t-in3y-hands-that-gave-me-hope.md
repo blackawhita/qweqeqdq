@@ -31,7 +31,7 @@ I couldn't understand for a second what had just happened to me, as I was sittin
 
 
 
-![ ](../images/Sunflower.jpg)
+![](../images/Sunflower.jpg)
 *** 
 
 
