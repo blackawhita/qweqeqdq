@@ -11,7 +11,13 @@ Life has been so uncanny lately, it's like I am in senses to know what's happeni
 
 When I reached the park, I was walking hastily as if I were rushing to be on time for something unknown which wasn't the case as I took this medium to settle my nerves but by then I realised something was off so i took a conscious decision to take a pit stop. Here the park where I go regularly, is just so good as if the nature were showing off how charming it could be and it definitely managed to enchant me as If I had got attracted to a girl who seemed to possess all the qualities of beauty anyone could ask for. And as if the nature wanted to keep playing with my small heart, it introduced me with cute little ducks and I do not know how long I can keep my hands in pants and not jump to hold them. I sat near the fountain where there were less people as I demanded some privacy for my emotions so to start processing everything was happening to me lately. I usually feel the need of have something in my hands or to be touched whenever I feel sort of anxiously thinking about something just like a child clings to their mother sari for the comfort. As the process to know deepens, I found that there was a weird feeling of wanting something desperately, but I couldn't find a way to do it and more than that, I couldn't know what "it" was to even reach.
 
+
+
+
 ![his name is baddie](/images/baddie.jpeg)
+
+
+
 
 
 
@@ -22,9 +28,19 @@ Through these heaviness of feeling that I sat with, I saw a small girl approachi
 I couldn't understand for a second what had just happened to me, as I was sitting on the bench being clueless and watching her slowly walking away from my sight, my eyes followed her until she was no longer visible. I looked at my hand, in which she had tried to put something, and then after few eye blinks, I found myself moved to tears. I felt she'd put "hope" in my hand, which was invisible obviously as if she knew already what I was dealing with as I was losing my strength. I just felt like holding onto that feeling as if it were "a call" from a mystical place to what many affirm as a sign of God, for some it's just a call from destiny or karma but for me it's a transcendent place that I can never perceive, nor process with my biological tools, and even worse can't talk about it as it's beyond linguistic capabilities but only to be felt at times. I've had a vague sense that, this place exists somewhere and what the little girl did, was to give me one another hope to find that place. To a human like me, maybe this ethereal feeling could be reduced to a quiet nudge to keep looking forward to build the place with utmost care and fill it with love so to call it my home, and the nonphysical thing that girl left it in my hand was the hope to be brave for uncertainties and challenges that will come in the process of building it.
 
 
+
+
+
+
+
 ![blooming against all odds](../images/Sunflower.jpg)
 
 
 
 
----
+
+
+
+
+
+
