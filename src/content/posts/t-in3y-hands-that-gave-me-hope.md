@@ -15,7 +15,7 @@ Through these heaviness of feeling that I sat with, I saw a small girl approachi
 
 I couldn't understand for a second what had just happened to me, as I was sitting on the bench being clueless and watching her slowly walking away from my sight, my eyes followed her until she was no longer visible. I looked at my hand, in which she had tried to put something, and then after few eye blinks, I found myself moved to tears. I felt she'd put "hope" in my hand, which was invisible obviously as if she knew already what I was dealing with as I was losing my strength. I just felt like holding onto that feeling as if it were "a call" from a mystical place to what many affirm as a sign of God, for some it's just a call from destiny or karma but for me it's a transcendent place that I can never perceive, nor process with my biological tools, and even worse can't talk about it as it's beyond linguistic capabilities but only to be felt at times. I've had a vague sense that, this place exists somewhere and what the little girl did, was to give me one another hope to find that place. To a human like me, maybe this ethereal feeling could be reduced to a quiet nudge to keep looking forward to build the place with utmost care and fill it with love so to call it my home, and the nonphysical thing that girl left it in my hand was the hope to be brave for uncertainties and challenges that will come in the process of building it.
 
-::spotify{url="https://open.spotify.com/track/4UcdqtJDDSYToxtsBZzkFX?si=83474a0de9ba45ae}
+::spotify{url="https://open.spotify.com/track/4UcdqtJDDSYToxtsBZzkFX?si=83474a0de9ba45ae"}
 
 
 
