@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c0c03da4ebcefe4",
+            "id": "4adc826ef3241b79",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,14 +165,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "66f7d12529d86248",
+  "active": "4adc826ef3241b79",
   "lastOpenFiles": [
+    "_bases/Home.base",
     "posts/_markdown-style-guide.md",
     "posts/_Origami.md",
     "posts/t-in3y-hands-that-gave-me-hope.md",
     "posts/My Philosophy behind creating this Digital Gardening.md",
     "images/2026-09-18-07-45-21-992.jpg",
-    "_bases/Home.base",
     "posts/_the-tr-808-story.md",
     "posts/Cousin's Delhi Trip.md",
     "posts/_Cooking.md",
