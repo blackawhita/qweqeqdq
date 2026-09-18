@@ -16,7 +16,7 @@ When I reached the park, I was walking hastily as if I were rushing to be on tim
 
 
 
-![meet mr baddie](/images/baddie.jpeg)
+![meet mr baddie](../images/baddie.jpeg)
 
 
 
