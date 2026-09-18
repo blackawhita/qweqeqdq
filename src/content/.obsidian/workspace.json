@@ -11,13 +11,15 @@
             "id": "bba4a7e6ca208782",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "_bases/Home.base",
-                "viewName": "Posts"
+                "file": "posts/t-in3y-hands-that-gave-me-hope.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-home",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "t-in3y-hands-that-gave-me-hope"
             }
           }
         ]
@@ -144,9 +146,10 @@
   },
   "active": "bba4a7e6ca208782",
   "lastOpenFiles": [
-    "posts/_the-tr-808-story.md",
-    "_bases/Home.base",
+    "images/2026-09-18-07-45-21-992.jpg",
     "posts/t-in3y-hands-that-gave-me-hope.md",
+    "_bases/Home.base",
+    "posts/_the-tr-808-story.md",
     "posts/_Origami.md",
     "posts/My Philosophy behind creating this Digital Gardening.md",
     "posts/Cousin's Delhi Trip.md",
@@ -173,7 +176,6 @@
     "_GUIDE.md",
     "posts/_assets/toc.webp",
     "posts/_assets/reading-time.webp",
-    "posts/_assets/hikari.webp",
     "about/about.md",
     "posts/draft-example.md",
     "posts/Pewdiepie is gehh.md",

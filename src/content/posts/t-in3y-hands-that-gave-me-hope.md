@@ -2,6 +2,8 @@
 title: TIny hands that gave me hope
 pubDate: 2026-09-18
 ---
+![](../images/2026-09-18-07-45-21-992.jpg)
+
 I woke up abruptly early in the morning to a feeling that my heart rate was a bit higher than it's used to be. I felt that there's something bothering me unconsciously and that's why this weird feeling. I tried to sleep back as it was still 2 hrs before than I used to wake up normally but no matter how much ways I tried, I couldn't and after a while I gave up. I felt like going to the park, as to calm me down a bit so I tied my shoe laces and went for it.
 
 Life has been so uncanny lately, it's like I know what's happening around but still something I could not understand and that could be the reason of abrupt body response as many of times something we miss to register in mind, body does remember and gives signal time to time. And it fascinated me a bit as I only thought that I can put reasoning to everything happening to me but strangely realized that it's not the case always. 
