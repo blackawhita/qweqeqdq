@@ -2,7 +2,9 @@
 title: TIny hands that gave me hope
 pubDate: 2026-09-18
 ---
-![](../images/2026-09-18-07-45-21-992.jpg)
+::spotify{url="https://open.spotify.com/track/6hVM759EJNyRKC8xQ3r2j0?si=ebe0c8e6a7ce42cc"}
+
+
 I woke up abruptly early in the morning with an uneasy feeling as my heart rate was a bit higher than normal, and it felt like there's something bothering me unconsciously. I tried to sleep again as it was still 2 hours before I naturally would wake up but no matter how many different ways I tried, I couldn't find myself able to calm so to sleep. After a while I gave up on the idea and just kind of called it a morning. I watched the sky shift from black to blue as morning painted itself in. I got a sudden urge to going to the park as I felt like I needed to walk so to calm myself down a bit so I tied up my shoelaces and went for it.
 
 Life has been so uncanny lately, it's like I am in senses to know what's happening around me but still something I couldn't understand, and that must be the reason for the abrupt body response, as many times something we miss to register in the mind, the body tends to remember and gives signals time to time and it fascinates me whenever I miss the cues and get reminded later, as I thought that I could put reasoning to everything happening to me but I'm strangely realising that it's not the case always. 
@@ -15,13 +17,6 @@ Through these heaviness of feeling that I sat with, I saw a small girl approachi
 
 I couldn't understand for a second what had just happened to me, as I was sitting on the bench being clueless and watching her slowly walking away from my sight, my eyes followed her until she was no longer visible. I looked at my hand, in which she had tried to put something, and then after few eye blinks, I found myself moved to tears. I felt she'd put "hope" in my hand, which was invisible obviously as if she knew already what I was dealing with as I was losing my strength. I just felt like holding onto that feeling as if it were "a call" from a mystical place to what many affirm as a sign of God, for some it's just a call from destiny or karma but for me it's a transcendent place that I can never perceive, nor process with my biological tools, and even worse can't talk about it as it's beyond linguistic capabilities but only to be felt at times. I've had a vague sense that, this place exists somewhere and what the little girl did, was to give me one another hope to find that place. To a human like me, maybe this ethereal feeling could be reduced to a quiet nudge to keep looking forward to build the place with utmost care and fill it with love so to call it my home, and the nonphysical thing that girl left it in my hand was the hope to be brave for uncertainties and challenges that will come in the process of building it.
 
-::spotify{url="https://open.spotify.com/track/6hVM759EJNyRKC8xQ3r2j0?si=ebe0c8e6a7ce42cc"}
 
-
-
-
-
-
-
-
+![](../images/2026-09-18-07-45-21-992.jpg)
 ---
