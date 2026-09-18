@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 200
   },
   "right": {
     "id": "e90e0077bda3ffe7",
@@ -165,7 +165,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2c0c03da4ebcefe4",
+  "active": "66f7d12529d86248",
   "lastOpenFiles": [
     "posts/_markdown-style-guide.md",
     "posts/_Origami.md",
