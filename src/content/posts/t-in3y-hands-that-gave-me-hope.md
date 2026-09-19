@@ -44,28 +44,6 @@ I couldn't understand for a second what had just happened with me, as I was sitt
 
 
 
-*I pray you'll be our eyes*
-
-*and watch us where we go*
-
-*and help us to be wise*
-
-*in times when we don't know*
-
-_Let this be our prayer_
-
-*when we lose our way* 
-
-*Lead us to the place*
-
-*guide us with your grace* 
-
-*to a place where we'll be safe*
-....
-
-
-
-
 
 
 
